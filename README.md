@@ -15,7 +15,7 @@ A RESTful API for managing investment funds, built with FastAPI and SQLite.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mingjun1120/fund-management-system.git
+    git clone https://github.com/mingjun1120/fund_management_system.git
     cd fund-management-system
     ```
 2. Create a virtual environment:
