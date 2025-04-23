@@ -152,9 +152,9 @@ fund_management_system/
 - `PATCH /api/funds/{fund_id}/performance`: Update a fund's performance
 - `DELETE /api/funds/{fund_id}`: Delete a fund
 
-For detailed API documentation, see [docs/api_documentation.md](../docs/api_documentation.md).
+For detailed API documentation, see [docs/api_documentation.md](https://github.com/mingjun1120/fund_management_system/blob/main/docs/api_documentation.md).
 
 ## Database Schema
 The system uses a relational database with tables for funds, fund managers, categories, and performance history.
 
-For detailed database documentation, see [docs/database_documentation.md](../docs/database_documentation.md).
+For detailed database documentation, see [docs/database_documentation.md](https://github.com/mingjun1120/fund_management_system/blob/main/docs/database_documentation.md).
