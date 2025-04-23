@@ -1242,3 +1242,31 @@ app.utils.error_handlers.DatabaseError: Test database error
 2025-04-22 11:49:24,174 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
 2025-04-22 11:49:24,175 - fund_management - INFO - Request f9ee6866-08cf-4827-b706-1ee563502a0b completed: Status 422 (0.0028s)
 2025-04-22 11:49:24,177 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-23 17:16:37,961 - fund_management - INFO - Database tables initialized successfully
+2025-04-23 17:16:37,974 - fund_management - INFO - Starting Fund Management System API
+2025-04-23 17:16:38,983 - fund_management - INFO - Database tables initialized successfully
+2025-04-23 17:16:53,668 - fund_management - INFO - Request bcd72dfe-2164-4c89-a041-174845a0ce41 started: GET /docs from 127.0.0.1
+2025-04-23 17:16:53,672 - fund_management - INFO - Request bcd72dfe-2164-4c89-a041-174845a0ce41 completed: Status 200 (0.0000s)
+2025-04-23 17:16:54,096 - fund_management - INFO - Request fdc57762-bd35-4819-a583-8d20df2159e5 started: GET /openapi.json from 127.0.0.1
+2025-04-23 17:16:54,114 - fund_management - INFO - Request fdc57762-bd35-4819-a583-8d20df2159e5 completed: Status 200 (0.0181s)
+2025-04-23 17:17:29,590 - fund_management - INFO - Request 5ebf3c8e-4b40-4998-b470-5751c44669f4 started: GET /api/funds/test_rong_id_1234 from 127.0.0.1
+2025-04-23 17:17:29,593 - fund_management - INFO - Request to get fund by ID: test_rong_id_1234
+2025-04-23 17:17:29,595 - fund_management - WARNING - Fund not found: test_rong_id_1234
+2025-04-23 17:17:29,595 - fund_management - WARNING - Fund not found: test_rong_id_1234
+2025-04-23 17:17:29,595 - fund_management - WARNING - Fund not found: test_rong_id_1234
+2025-04-23 17:17:29,595 - fund_management - INFO - Request 5ebf3c8e-4b40-4998-b470-5751c44669f4 completed: Status 404 (0.0041s)
+2025-04-23 17:26:16,447 - fund_management - INFO - Request 8f2abc97-9592-45e8-890e-58f13acaa161 started: POST /api/funds/ from 127.0.0.1
+2025-04-23 17:26:16,458 - fund_management - WARNING - Request validation error: [{'loc': ('body', 277), 'msg': 'JSON decode error', 'type': 'json_invalid'}]
+2025-04-23 17:26:16,458 - fund_management - INFO - Request 8f2abc97-9592-45e8-890e-58f13acaa161 completed: Status 422 (0.0113s)
+2025-04-23 17:30:27,443 - fund_management - INFO - Request 8bd23294-e309-4029-b686-17cffa7e8ba4 started: POST /api/funds/ from 127.0.0.1
+2025-04-23 17:30:27,445 - fund_management - WARNING - Request validation error: [{'loc': ('body', 247), 'msg': 'JSON decode error', 'type': 'json_invalid'}]
+2025-04-23 17:30:27,448 - fund_management - INFO - Request 8bd23294-e309-4029-b686-17cffa7e8ba4 completed: Status 422 (0.0039s)
+2025-04-23 17:30:54,385 - fund_management - INFO - Request fb721e1f-2536-490e-9b83-09a870e7b36a started: POST /api/funds/ from 127.0.0.1
+2025-04-23 17:30:54,393 - fund_management - INFO - Request to create new fund: Versa US-Tech
+2025-04-23 17:30:54,403 - fund_management - INFO - Created fund: Versa US-Tech (ID: fdb3fe38-25cb-4e54-94e3-d542f65a063c)
+2025-04-23 17:30:54,403 - fund_management - INFO - Fund created successfully: fdb3fe38-25cb-4e54-94e3-d542f65a063c
+2025-04-23 17:30:54,408 - fund_management - INFO - Request fb721e1f-2536-490e-9b83-09a870e7b36a completed: Status 201 (0.0233s)
+2025-04-23 17:31:13,092 - fund_management - INFO - Request 4c7d11a1-b30f-46b4-a366-957d981eb99d started: GET /api/funds/ from 127.0.0.1
+2025-04-23 17:31:13,094 - fund_management - INFO - Request to get all funds
+2025-04-23 17:31:13,097 - fund_management - INFO - Retrieved 5 funds
+2025-04-23 17:31:13,101 - fund_management - INFO - Request 4c7d11a1-b30f-46b4-a366-957d981eb99d completed: Status 200 (0.0091s)
