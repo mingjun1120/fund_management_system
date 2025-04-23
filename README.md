@@ -158,3 +158,18 @@ For detailed API documentation, see [docs/api_documentation.md](https://github.c
 The system uses a relational database with tables for funds, fund managers, categories, and performance history.
 
 For detailed database documentation, see [docs/database_documentation.md](https://github.com/mingjun1120/fund_management_system/blob/main/docs/database_documentation.md).
+
+## Error Handling
+The system implements robust error handling with:
+- Consistent error response format across all endpoints
+- Detailed validation error reporting
+- Appropriate HTTP status codes for different error conditions
+- Comprehensive error logging with request tracking
+- Clear, actionable error messages
+
+All error responses include:
+- An error type identifier
+- A human-readable error message
+- Detailed error information when applicable
+
+For complete details on error handling, see the [API Documentation](docs/api_documentation.md](https://github.com/mingjun1120/fund_management_system/blob/main/docs/api_documentation.md#error-handling).

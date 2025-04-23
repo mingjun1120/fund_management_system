@@ -252,3 +252,45 @@ Deletes a fund using its ID.
   ```bash
   curl -X DELETE http://localhost:8000/api/funds/550e8400-e29b-41d4-a716-446655440000
   ```
+
+## Error Handling
+The Fund Management System implements a comprehensive error handling strategy to provide clear, actionable feedback when issues occur.
+
+### Error Response Format
+All error responses follow a consistent JSON format:
+```json
+{
+  "error": "Error Type",
+  "message": "Human-readable error message",
+  "errors": [
+    // Optional array of detailed errors for validation failures
+  ],
+  "details": {
+    // Optional additional technical details (not included in production)
+  }
+}
+```
+
+### Common Error Types
+Here is the content from the image in markdown table format:
+
+| Error Type          | Status Code | Description                                                     | Example Scenario                          |
+|---------------------|-------------|-----------------------------------------------------------------|-------------------------------------------|
+| Validation Error    | 400         | Occurs when request data fails validation rules                 | Trying to create a fund with invalid data |
+| Not Found           | 404         | Occurs when a requested resource doesn't exist                  | Trying to retrieve a non-existent fund    |
+| Unprocessable Entity| 422         | Occurs when request data format is correct but invalid semantically | Missing required fields in request body     |
+| Database Error      | 500         | Occurs when there's an issue with database operations           | Database connection failure               |
+| Internal Server Error| 500         | Occurs for unhandled server-side errors                         | Unexpected server issues                  |
+
+### Validation Errors
+Validation errors provide detailed information about what validation rules failed:
+```json
+{
+  "error": "Validation Error",
+  "message": "Fund validation failed",
+  "errors": [
+    { "field": "name", "error": "Name cannot be empty" },
+    { "field": "nav", "error": "NAV cannot be negative" }
+  ]
+}
+```
