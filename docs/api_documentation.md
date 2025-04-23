@@ -114,6 +114,25 @@ Creates a new investment fund.
       ]
     }
     ```
+  OR
+  - **Code:** 422
+  - **Content:**
+    ```json
+    {
+      "error": "Validation Error",
+      "message": "Request validation failed",
+      "errors": [
+        {
+          "loc": [
+            "body",
+            277
+          ],
+          "msg": "JSON decode error",
+          "type": "json_invalid"
+        }
+      ]
+    }
+    ```
 - **Sample Call:**
   ```bash
   curl -X POST http://localhost:8000/api/funds/ \
