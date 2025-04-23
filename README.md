@@ -172,4 +172,4 @@ All error responses include:
 - A human-readable error message
 - Detailed error information when applicable
 
-For complete details on error handling, see the [API Documentation](docs/api_documentation.md](https://github.com/mingjun1120/fund_management_system/blob/main/docs/api_documentation.md#error-handling).
+For complete details on error handling, see the [API Documentation](https://github.com/mingjun1120/fund_management_system/blob/main/docs/api_documentation.md#error-handling).
