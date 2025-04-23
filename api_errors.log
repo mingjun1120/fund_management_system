@@ -1,0 +1,1244 @@
+2025-04-21 04:43:48,999 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:43:53,400 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:43:55,332 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:43:58,125 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:44:46,417 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:45:50,583 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:46:11,106 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:47:39,809 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:47:46,360 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:47:52,357 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:47:55,351 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:48:17,968 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:48:23,470 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:49:08,451 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:49:23,703 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:51:47,510 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:52:00,431 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:52:06,277 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:52:11,816 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:53:52,888 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:54:25,406 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:54:29,359 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:54:34,890 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:54:39,190 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:54:41,679 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:56:02,277 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:56:32,262 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:57:02,468 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:57:04,192 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:57:07,966 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:57:33,051 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:58:03,424 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:58:22,728 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:59:00,522 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:59:09,114 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:59:12,348 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:59:13,803 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 04:59:19,848 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 05:09:20,021 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 05:09:21,447 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 05:10:58,148 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 05:11:00,054 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 05:11:10,140 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 05:12:34,988 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 18:00:20,987 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 18:00:21,010 - fund_management - INFO - Starting Fund Management System API
+2025-04-21 18:00:22,210 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 18:00:43,842 - fund_management - INFO - Request d699cb59-1af4-4432-a443-3bc79a79206c started: GET / from 127.0.0.1
+2025-04-21 18:00:43,847 - fund_management - INFO - Root endpoint accessed
+2025-04-21 18:00:43,851 - fund_management - INFO - Request d699cb59-1af4-4432-a443-3bc79a79206c completed: Status 200 (0.0072s)
+2025-04-21 18:00:46,184 - fund_management - INFO - Request 609f3a21-aff0-443d-90a5-6f1ddf31f213 started: GET /favicon.ico from 127.0.0.1
+2025-04-21 18:00:46,184 - fund_management - WARNING - HTTP exception: Not Found
+2025-04-21 18:00:46,184 - fund_management - INFO - Request 609f3a21-aff0-443d-90a5-6f1ddf31f213 completed: Status 404 (0.0023s)
+2025-04-21 18:00:51,921 - fund_management - INFO - Request 11d99075-e1d9-44ce-a457-4cc0d311d4c1 started: GET /docs from 127.0.0.1
+2025-04-21 18:00:51,921 - fund_management - INFO - Request 11d99075-e1d9-44ce-a457-4cc0d311d4c1 completed: Status 200 (0.0000s)
+2025-04-21 18:00:52,300 - fund_management - INFO - Request 64146a94-9a9c-4579-8a22-962c1a681d48 started: GET /openapi.json from 127.0.0.1
+2025-04-21 18:00:52,323 - fund_management - INFO - Request 64146a94-9a9c-4579-8a22-962c1a681d48 completed: Status 200 (0.0230s)
+2025-04-21 18:00:58,806 - fund_management - INFO - Request 37d2ac49-dbf7-4307-9caf-82d7a1ade957 started: GET /api/funds/ from 127.0.0.1
+2025-04-21 18:00:58,808 - fund_management - INFO - Request to get all funds
+2025-04-21 18:00:58,811 - fund_management - INFO - Retrieved 2 funds
+2025-04-21 18:00:58,811 - fund_management - INFO - Request 37d2ac49-dbf7-4307-9caf-82d7a1ade957 completed: Status 200 (0.0054s)
+2025-04-21 18:38:07,856 - fund_management - INFO - Request b6bc574b-8498-4506-b5db-b2adcb27bf04 started: POST /api/funds/ from 127.0.0.1
+2025-04-21 18:38:07,864 - fund_management - INFO - Request to create new fund: Joe Biden
+2025-04-21 18:38:07,881 - fund_management - INFO - Created fund: Joe Biden (ID: 94b2f2a6-9b01-4b64-a313-e791ae506845)
+2025-04-21 18:38:07,883 - fund_management - INFO - Fund created successfully: 94b2f2a6-9b01-4b64-a313-e791ae506845
+2025-04-21 18:38:07,883 - fund_management - INFO - Request b6bc574b-8498-4506-b5db-b2adcb27bf04 completed: Status 201 (0.0272s)
+2025-04-21 18:42:15,493 - fund_management - INFO - Request 30261fa7-c681-4d4d-a23f-5fcad14c196e started: GET /api/funds/ from 127.0.0.1
+2025-04-21 18:42:15,495 - fund_management - INFO - Request to get all funds
+2025-04-21 18:42:15,497 - fund_management - INFO - Retrieved 3 funds
+2025-04-21 18:42:15,497 - fund_management - INFO - Request 30261fa7-c681-4d4d-a23f-5fcad14c196e completed: Status 200 (0.0036s)
+2025-04-21 18:42:51,690 - fund_management - INFO - Request a4df60eb-1c83-4390-9882-f10a42ccf5d8 started: GET /api/funds/4b2f2a6-9b01-4b64-a313-e791ae506845 from 127.0.0.1
+2025-04-21 18:42:51,692 - fund_management - INFO - Request to get fund by ID: 4b2f2a6-9b01-4b64-a313-e791ae506845
+2025-04-21 18:42:51,694 - fund_management - WARNING - Fund not found: 4b2f2a6-9b01-4b64-a313-e791ae506845
+2025-04-21 18:42:51,696 - fund_management - WARNING - Fund not found: 4b2f2a6-9b01-4b64-a313-e791ae506845
+2025-04-21 18:42:51,696 - fund_management - WARNING - Fund not found: 4b2f2a6-9b01-4b64-a313-e791ae506845
+2025-04-21 18:42:51,696 - fund_management - INFO - Request a4df60eb-1c83-4390-9882-f10a42ccf5d8 completed: Status 404 (0.0060s)
+2025-04-21 18:43:51,191 - fund_management - INFO - Request 64abcce1-2c1c-45d0-9320-d514f3e991b3 started: GET /api/funds/94b2f2a6-9b01-4b64-a313-e791ae506845 from 127.0.0.1
+2025-04-21 18:43:51,193 - fund_management - INFO - Request to get fund by ID: 94b2f2a6-9b01-4b64-a313-e791ae506845
+2025-04-21 18:43:51,195 - fund_management - INFO - Retrieved fund: Joe Biden
+2025-04-21 18:43:51,196 - fund_management - INFO - Request 64abcce1-2c1c-45d0-9320-d514f3e991b3 completed: Status 200 (0.0039s)
+2025-04-21 18:44:53,566 - fund_management - INFO - Request 9f350cf7-3ca0-4bab-86f9-da4a15923e6f started: PATCH /api/funds/94b2f2a6-9b01-4b64-a313-e791ae506845/performance from 127.0.0.1
+2025-04-21 18:44:53,568 - fund_management - INFO - Request to update performance for fund 94b2f2a6-9b01-4b64-a313-e791ae506845: 0.2
+2025-04-21 18:44:53,575 - fund_management - INFO - Updated performance for fund ID 94b2f2a6-9b01-4b64-a313-e791ae506845 to 0.2
+2025-04-21 18:44:53,579 - fund_management - INFO - Updated performance for fund 94b2f2a6-9b01-4b64-a313-e791ae506845 to 0.2
+2025-04-21 18:44:53,582 - fund_management - INFO - Request 9f350cf7-3ca0-4bab-86f9-da4a15923e6f completed: Status 200 (0.0168s)
+2025-04-21 18:45:27,424 - fund_management - INFO - Request 31a3005f-371a-4282-8315-317d2f919d97 started: GET /api/funds/94b2f2a6-9b01-4b64-a313-e791ae506845 from 127.0.0.1
+2025-04-21 18:45:27,426 - fund_management - INFO - Request to get fund by ID: 94b2f2a6-9b01-4b64-a313-e791ae506845
+2025-04-21 18:45:27,427 - fund_management - INFO - Retrieved fund: Joe Biden
+2025-04-21 18:45:27,428 - fund_management - INFO - Request 31a3005f-371a-4282-8315-317d2f919d97 completed: Status 200 (0.0048s)
+2025-04-21 18:45:54,807 - fund_management - INFO - Request c4beeff9-ab88-4f36-873c-4028477358f1 started: GET /api/funds/ from 127.0.0.1
+2025-04-21 18:45:54,809 - fund_management - INFO - Request to get all funds
+2025-04-21 18:45:54,810 - fund_management - INFO - Retrieved 3 funds
+2025-04-21 18:45:54,811 - fund_management - INFO - Request c4beeff9-ab88-4f36-873c-4028477358f1 completed: Status 200 (0.0035s)
+2025-04-21 18:46:18,752 - fund_management - INFO - Request 0a374875-c4a3-4344-82f9-0923e46b0806 started: GET /health from 127.0.0.1
+2025-04-21 18:46:18,753 - fund_management - INFO - Health check endpoint accessed
+2025-04-21 18:46:18,754 - fund_management - INFO - Request 0a374875-c4a3-4344-82f9-0923e46b0806 completed: Status 200 (0.0021s)
+2025-04-21 18:52:35,311 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 18:52:46,850 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:33:53,527 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:33:53,732 - fund_management - INFO - Request c4ed474b-789b-4463-98f6-7883e3773211 started: GET / from testclient
+2025-04-21 19:33:53,732 - fund_management - INFO - Root endpoint accessed
+2025-04-21 19:33:53,732 - fund_management - INFO - Request c4ed474b-789b-4463-98f6-7883e3773211 completed: Status 200 (0.0000s)
+2025-04-21 19:33:53,738 - httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2025-04-21 19:33:53,741 - fund_management - INFO - Request da11a495-5544-4c24-bda6-fde81c94486a started: GET /api/funds/ from testclient
+2025-04-21 19:33:53,747 - fund_management - INFO - Request to get all funds
+2025-04-21 19:33:53,747 - fund_management - INFO - Retrieved 0 funds
+2025-04-21 19:33:53,747 - fund_management - INFO - Request da11a495-5544-4c24-bda6-fde81c94486a completed: Status 200 (0.0062s)
+2025-04-21 19:33:53,752 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-21 19:33:53,757 - fund_management - INFO - Request 927574d1-c9a6-47bf-8c48-294c759bb0cf started: GET /api/funds/ from testclient
+2025-04-21 19:33:53,760 - fund_management - INFO - Request to get all funds
+2025-04-21 19:33:53,760 - fund_management - INFO - Retrieved 3 funds
+2025-04-21 19:33:53,760 - fund_management - INFO - Request 927574d1-c9a6-47bf-8c48-294c759bb0cf completed: Status 200 (0.0032s)
+2025-04-21 19:33:53,763 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-21 19:33:53,771 - fund_management - INFO - Request 2957041e-0c57-49eb-9d96-779f6ef3449f started: POST /api/funds/ from testclient
+2025-04-21 19:33:53,777 - fund_management - INFO - Request to create new fund: API Test Fund
+2025-04-21 19:33:53,777 - fund_management - INFO - Fund created successfully: df8535b1-3b28-4207-a07a-b1723c0ae5a1
+2025-04-21 19:33:53,777 - fund_management - INFO - Request 2957041e-0c57-49eb-9d96-779f6ef3449f completed: Status 201 (0.0060s)
+2025-04-21 19:33:53,778 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 201 Created"
+2025-04-21 19:33:53,780 - fund_management - INFO - Request 702cf840-1496-4b68-826a-0f0260e2b793 started: POST /api/funds/ from testclient
+2025-04-21 19:33:53,788 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-21 19:33:53,788 - fund_management - INFO - Request 702cf840-1496-4b68-826a-0f0260e2b793 completed: Status 422 (0.0077s)
+2025-04-21 19:33:53,791 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-21 19:33:53,797 - fund_management - INFO - Request 105719b8-df18-446c-8518-d2bc61e5d976 started: GET /api/funds/b4c1fa9f-5714-4883-99e7-8248f31fef69 from testclient
+2025-04-21 19:33:53,797 - fund_management - INFO - Request to get fund by ID: b4c1fa9f-5714-4883-99e7-8248f31fef69
+2025-04-21 19:33:53,797 - fund_management - INFO - Retrieved fund: Test Growth Fund
+2025-04-21 19:33:53,797 - fund_management - INFO - Request 105719b8-df18-446c-8518-d2bc61e5d976 completed: Status 200 (0.0000s)
+2025-04-21 19:33:53,802 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/b4c1fa9f-5714-4883-99e7-8248f31fef69 "HTTP/1.1 200 OK"
+2025-04-21 19:33:53,809 - fund_management - INFO - Request c909e2a8-a1c8-46ae-9aaa-fc06a40a6936 started: GET /api/funds/9c8e8497-8ac3-48ae-a189-25c1e423c8fc from testclient
+2025-04-21 19:33:53,811 - fund_management - INFO - Request to get fund by ID: 9c8e8497-8ac3-48ae-a189-25c1e423c8fc
+2025-04-21 19:33:53,811 - fund_management - WARNING - Fund not found: 9c8e8497-8ac3-48ae-a189-25c1e423c8fc
+2025-04-21 19:33:53,811 - fund_management - WARNING - Fund not found: 9c8e8497-8ac3-48ae-a189-25c1e423c8fc
+2025-04-21 19:33:53,811 - fund_management - INFO - Request c909e2a8-a1c8-46ae-9aaa-fc06a40a6936 completed: Status 404 (0.0023s)
+2025-04-21 19:33:53,814 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/9c8e8497-8ac3-48ae-a189-25c1e423c8fc "HTTP/1.1 404 Not Found"
+2025-04-21 19:33:53,818 - fund_management - INFO - Request e9e574a8-79e1-41cc-9380-0676b1bfe301 started: PATCH /api/funds/ac1fd233-34c3-43cf-83d6-1a76280f0f58/performance from testclient
+2025-04-21 19:33:53,822 - fund_management - INFO - Request to update performance for fund ac1fd233-34c3-43cf-83d6-1a76280f0f58: 20.0
+2025-04-21 19:33:53,822 - fund_management - INFO - Updated performance for fund ac1fd233-34c3-43cf-83d6-1a76280f0f58 to 20.0
+2025-04-21 19:33:53,822 - fund_management - INFO - Request e9e574a8-79e1-41cc-9380-0676b1bfe301 completed: Status 200 (0.0043s)
+2025-04-21 19:33:53,826 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/ac1fd233-34c3-43cf-83d6-1a76280f0f58/performance "HTTP/1.1 200 OK"
+2025-04-21 19:33:53,832 - fund_management - INFO - Request a8cd84e0-b869-46b8-b251-c5d277dc076c started: PATCH /api/funds/dcb8a3c3-333b-4412-b32b-d20016341147/performance from testclient
+2025-04-21 19:33:53,835 - fund_management - INFO - Request to update performance for fund dcb8a3c3-333b-4412-b32b-d20016341147: 15.0
+2025-04-21 19:33:53,835 - fund_management - WARNING - Fund not found when updating performance: dcb8a3c3-333b-4412-b32b-d20016341147
+2025-04-21 19:33:53,835 - fund_management - WARNING - Fund not found: dcb8a3c3-333b-4412-b32b-d20016341147
+2025-04-21 19:33:53,835 - fund_management - INFO - Request a8cd84e0-b869-46b8-b251-c5d277dc076c completed: Status 404 (0.0035s)
+2025-04-21 19:33:53,837 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/dcb8a3c3-333b-4412-b32b-d20016341147/performance "HTTP/1.1 404 Not Found"
+2025-04-21 19:33:53,843 - fund_management - INFO - Request 2387ff02-d1f9-4cf1-a843-968092b50678 started: DELETE /api/funds/49262095-5801-4d7f-81b0-bd31d96d2537 from testclient
+2025-04-21 19:33:53,843 - fund_management - INFO - Request to delete fund: 49262095-5801-4d7f-81b0-bd31d96d2537
+2025-04-21 19:33:53,847 - fund_management - INFO - Fund deleted successfully: 49262095-5801-4d7f-81b0-bd31d96d2537
+2025-04-21 19:33:53,847 - fund_management - INFO - Request 2387ff02-d1f9-4cf1-a843-968092b50678 completed: Status 204 (0.0039s)
+2025-04-21 19:33:53,847 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/49262095-5801-4d7f-81b0-bd31d96d2537 "HTTP/1.1 204 No Content"
+2025-04-21 19:33:53,855 - fund_management - INFO - Request 680e77f0-1f1f-4828-8c19-76da3b9280a1 started: DELETE /api/funds/28fbce4e-7ec3-4a4f-a208-20844bbceaed from testclient
+2025-04-21 19:33:53,858 - fund_management - INFO - Request to delete fund: 28fbce4e-7ec3-4a4f-a208-20844bbceaed
+2025-04-21 19:33:53,858 - fund_management - WARNING - Fund not found when attempting to delete: 28fbce4e-7ec3-4a4f-a208-20844bbceaed
+2025-04-21 19:33:53,858 - fund_management - WARNING - Fund not found: 28fbce4e-7ec3-4a4f-a208-20844bbceaed
+2025-04-21 19:33:53,858 - fund_management - INFO - Request 680e77f0-1f1f-4828-8c19-76da3b9280a1 completed: Status 404 (0.0033s)
+2025-04-21 19:33:53,860 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/28fbce4e-7ec3-4a4f-a208-20844bbceaed "HTTP/1.1 404 Not Found"
+2025-04-21 19:34:24,286 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:40,676 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:40,776 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:40,776 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:34:40,944 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:40,944 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:34:40,964 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:40,966 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:34:40,990 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:40,993 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:34:41,013 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:41,024 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:41,024 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:34:41,050 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:41,050 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:34:41,075 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:41,076 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:34:41,100 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:34:41,100 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:35:49,844 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:35:49,999 - fund_management - INFO - Request 8120129b-c140-4721-ae22-e368d5175b62 started: GET /api/funds/ from testclient
+2025-04-21 19:35:49,999 - fund_management - INFO - Request to get all funds
+2025-04-21 19:35:49,999 - fund_management - ERROR - Database error: Test database error
+Traceback (most recent call last):
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\app\api\routes.py", line 36, in get_all_funds
+    funds = db.get_all_funds()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\tests\test_error_handling.py", line 14, in mock_get_all_funds
+    raise DatabaseError("Test database error", {"detail": "Connection failed"})
+app.utils.error_handlers.DatabaseError: Test database error
+2025-04-21 19:35:50,007 - fund_management - INFO - Request 8120129b-c140-4721-ae22-e368d5175b62 completed: Status 500 (0.0083s)
+2025-04-21 19:35:50,010 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 500 Internal Server Error"
+2025-04-21 19:35:50,015 - fund_management - INFO - Request 0634ec9d-53ee-4d22-90e3-6d961f13fa20 started: GET /api/funds/8219f115-5ff8-4e29-8cf5-532e4158aad0 from testclient
+2025-04-21 19:35:50,015 - fund_management - INFO - Request to get fund by ID: 8219f115-5ff8-4e29-8cf5-532e4158aad0
+2025-04-21 19:35:50,015 - fund_management - WARNING - Fund not found: 8219f115-5ff8-4e29-8cf5-532e4158aad0
+2025-04-21 19:35:50,021 - fund_management - WARNING - Fund not found: 8219f115-5ff8-4e29-8cf5-532e4158aad0
+2025-04-21 19:35:50,021 - fund_management - INFO - Request 0634ec9d-53ee-4d22-90e3-6d961f13fa20 completed: Status 404 (0.0058s)
+2025-04-21 19:35:50,024 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/8219f115-5ff8-4e29-8cf5-532e4158aad0 "HTTP/1.1 404 Not Found"
+2025-04-21 19:35:50,030 - fund_management - INFO - Request 06424312-c40e-4565-b073-fe4453d32ea4 started: POST /api/funds/ from testclient
+2025-04-21 19:35:50,034 - fund_management - INFO - Request to create new fund: Test Fund
+2025-04-21 19:35:50,034 - fund_management - WARNING - Validation error when creating fund: Test Fund
+2025-04-21 19:35:50,034 - fund_management - WARNING - Validation error: Test validation error
+2025-04-21 19:35:50,034 - fund_management - INFO - Request 06424312-c40e-4565-b073-fe4453d32ea4 completed: Status 400 (0.0037s)
+2025-04-21 19:35:50,038 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 400 Bad Request"
+2025-04-21 19:35:50,044 - fund_management - INFO - Request aefa4812-f00b-4261-8d62-4c858673c879 started: POST /api/funds/ from testclient
+2025-04-21 19:35:50,049 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-21 19:35:50,049 - fund_management - INFO - Request aefa4812-f00b-4261-8d62-4c858673c879 completed: Status 422 (0.0048s)
+2025-04-21 19:35:50,053 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-21 19:36:54,294 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,374 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,377 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:36:54,509 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,511 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:36:54,544 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,544 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:36:54,568 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,568 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:36:54,592 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,603 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,603 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:36:54,626 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,626 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:36:54,647 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,648 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:36:54,674 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:36:54,676 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 19:39:16,643 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:39:16,698 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 19:39:16,698 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 20:01:16,067 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 20:01:16,110 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 20:04:56,417 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 20:04:56,449 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 20:04:56,449 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 20:04:56,449 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 21:19:09,078 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 21:19:09,146 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 21:19:09,146 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 21:19:09,148 - fund_management - ERROR - Database error when creating fund: no such table: funds
+2025-04-21 21:28:57,614 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 21:28:57,715 - fund_management - INFO - Request f4e108e4-dfc6-4366-83dc-411ec9d8880b started: GET /api/funds/ from testclient
+2025-04-21 21:28:57,717 - fund_management - INFO - Request to get all funds
+2025-04-21 21:28:57,718 - fund_management - ERROR - Database error: Test database error
+Traceback (most recent call last):
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\app\api\routes.py", line 36, in get_all_funds
+    funds = db.get_all_funds()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\tests\test_error_handling.py", line 14, in mock_get_all_funds
+    raise DatabaseError("Test database error", {"detail": "Connection failed"})
+app.utils.error_handlers.DatabaseError: Test database error
+2025-04-21 21:28:57,725 - fund_management - INFO - Request f4e108e4-dfc6-4366-83dc-411ec9d8880b completed: Status 500 (0.0112s)
+2025-04-21 21:28:57,727 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 500 Internal Server Error"
+2025-04-21 21:28:57,732 - fund_management - INFO - Request 76ebab9e-9436-40e7-800d-6b0c42b4a7d7 started: GET /api/funds/60f1e855-31f7-4ccc-a56d-2859941db6fd from testclient
+2025-04-21 21:28:57,732 - fund_management - INFO - Request to get fund by ID: 60f1e855-31f7-4ccc-a56d-2859941db6fd
+2025-04-21 21:28:57,732 - fund_management - WARNING - Fund not found: 60f1e855-31f7-4ccc-a56d-2859941db6fd
+2025-04-21 21:28:57,732 - fund_management - WARNING - Fund not found: 60f1e855-31f7-4ccc-a56d-2859941db6fd
+2025-04-21 21:28:57,739 - fund_management - INFO - Request 76ebab9e-9436-40e7-800d-6b0c42b4a7d7 completed: Status 404 (0.0069s)
+2025-04-21 21:28:57,741 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/60f1e855-31f7-4ccc-a56d-2859941db6fd "HTTP/1.1 404 Not Found"
+2025-04-21 21:28:57,749 - fund_management - INFO - Request bd21302e-3483-4b80-a270-68f6efab5fae started: POST /api/funds/ from testclient
+2025-04-21 21:28:57,753 - fund_management - INFO - Request to create new fund: Test Fund
+2025-04-21 21:28:57,753 - fund_management - WARNING - Validation error when creating fund: Test Fund
+2025-04-21 21:28:57,753 - fund_management - WARNING - Validation error: Test validation error
+2025-04-21 21:28:57,753 - fund_management - INFO - Request bd21302e-3483-4b80-a270-68f6efab5fae completed: Status 400 (0.0044s)
+2025-04-21 21:28:57,756 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 400 Bad Request"
+2025-04-21 21:28:57,762 - fund_management - INFO - Request be66de6d-dbc8-4f35-b414-2a0b429a2cba started: POST /api/funds/ from testclient
+2025-04-21 21:28:57,766 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-21 21:28:57,766 - fund_management - INFO - Request be66de6d-dbc8-4f35-b414-2a0b429a2cba completed: Status 422 (0.0038s)
+2025-04-21 21:28:57,769 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-21 21:30:06,921 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 21:30:18,000 - fund_management - INFO - Database tables initialized successfully
+2025-04-21 21:30:18,097 - fund_management - INFO - Request 9bc864e4-f811-4795-a0d8-338b1596052c started: GET / from testclient
+2025-04-21 21:30:18,097 - fund_management - INFO - Root endpoint accessed
+2025-04-21 21:30:18,099 - fund_management - INFO - Request 9bc864e4-f811-4795-a0d8-338b1596052c completed: Status 200 (0.0020s)
+2025-04-21 21:30:18,099 - httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2025-04-21 21:30:18,107 - fund_management - INFO - Request 6b0c1c4b-ee96-4e2b-b05d-d0e2e2586e93 started: GET /api/funds/ from testclient
+2025-04-21 21:30:18,109 - fund_management - INFO - Request to get all funds
+2025-04-21 21:30:18,109 - fund_management - INFO - Retrieved 0 funds
+2025-04-21 21:30:18,109 - fund_management - INFO - Request 6b0c1c4b-ee96-4e2b-b05d-d0e2e2586e93 completed: Status 200 (0.0022s)
+2025-04-21 21:30:18,112 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-21 21:30:18,112 - fund_management - INFO - Request 10444a00-9f0e-4031-a5a2-ce22f738fd95 started: GET /api/funds/ from testclient
+2025-04-21 21:30:18,121 - fund_management - INFO - Request to get all funds
+2025-04-21 21:30:18,121 - fund_management - INFO - Retrieved 3 funds
+2025-04-21 21:30:18,122 - fund_management - INFO - Request 10444a00-9f0e-4031-a5a2-ce22f738fd95 completed: Status 200 (0.0103s)
+2025-04-21 21:30:18,124 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-21 21:30:18,129 - fund_management - INFO - Request 0e5582de-b1a7-46d0-90fd-001704250173 started: POST /api/funds/ from testclient
+2025-04-21 21:30:18,134 - fund_management - INFO - Request to create new fund: API Test Fund
+2025-04-21 21:30:18,134 - fund_management - INFO - Fund created successfully: 9b3676c3-b7d2-44e1-a69f-02bf9e470ac1
+2025-04-21 21:30:18,134 - fund_management - INFO - Request 0e5582de-b1a7-46d0-90fd-001704250173 completed: Status 201 (0.0051s)
+2025-04-21 21:30:18,137 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 201 Created"
+2025-04-21 21:30:18,145 - fund_management - INFO - Request 3063efbc-b661-4783-af83-1d8eaf7d69ec started: POST /api/funds/ from testclient
+2025-04-21 21:30:18,145 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-21 21:30:18,149 - fund_management - INFO - Request 3063efbc-b661-4783-af83-1d8eaf7d69ec completed: Status 422 (0.0031s)
+2025-04-21 21:30:18,154 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-21 21:30:18,161 - fund_management - INFO - Request 6d2b5afb-9a35-4a02-ac03-17acc28dced9 started: GET /api/funds/2483c3fd-e5fd-49e0-8e6b-db7feea1ea8d from testclient
+2025-04-21 21:30:18,162 - fund_management - INFO - Request to get fund by ID: 2483c3fd-e5fd-49e0-8e6b-db7feea1ea8d
+2025-04-21 21:30:18,162 - fund_management - INFO - Retrieved fund: Test Growth Fund
+2025-04-21 21:30:18,164 - fund_management - INFO - Request 6d2b5afb-9a35-4a02-ac03-17acc28dced9 completed: Status 200 (0.0031s)
+2025-04-21 21:30:18,166 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/2483c3fd-e5fd-49e0-8e6b-db7feea1ea8d "HTTP/1.1 200 OK"
+2025-04-21 21:30:18,170 - fund_management - INFO - Request 6ec75fbf-42bb-46ff-b486-af6261c0f178 started: GET /api/funds/c5f4b7aa-0d07-472b-915e-14514a93b96b from testclient
+2025-04-21 21:30:18,170 - fund_management - INFO - Request to get fund by ID: c5f4b7aa-0d07-472b-915e-14514a93b96b
+2025-04-21 21:30:18,170 - fund_management - WARNING - Fund not found: c5f4b7aa-0d07-472b-915e-14514a93b96b
+2025-04-21 21:30:18,170 - fund_management - WARNING - Fund not found: c5f4b7aa-0d07-472b-915e-14514a93b96b
+2025-04-21 21:30:18,170 - fund_management - INFO - Request 6ec75fbf-42bb-46ff-b486-af6261c0f178 completed: Status 404 (0.0000s)
+2025-04-21 21:30:18,177 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/c5f4b7aa-0d07-472b-915e-14514a93b96b "HTTP/1.1 404 Not Found"
+2025-04-21 21:30:18,183 - fund_management - INFO - Request cb9eca1d-6570-4e07-8033-124e1788f99d started: PATCH /api/funds/ac48ae9f-cb53-4d04-bc86-ba4c67b0fe29/performance from testclient
+2025-04-21 21:30:18,186 - fund_management - INFO - Request to update performance for fund ac48ae9f-cb53-4d04-bc86-ba4c67b0fe29: 20.0
+2025-04-21 21:30:18,187 - fund_management - INFO - Updated performance for fund ac48ae9f-cb53-4d04-bc86-ba4c67b0fe29 to 20.0
+2025-04-21 21:30:18,187 - fund_management - INFO - Request cb9eca1d-6570-4e07-8033-124e1788f99d completed: Status 200 (0.0036s)
+2025-04-21 21:30:18,187 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/ac48ae9f-cb53-4d04-bc86-ba4c67b0fe29/performance "HTTP/1.1 200 OK"
+2025-04-21 21:30:18,194 - fund_management - INFO - Request 44d19a45-0e90-4567-8bb4-9fe9e2f212a4 started: PATCH /api/funds/9a0f796d-bc0a-4f31-8810-fad7216eaa20/performance from testclient
+2025-04-21 21:30:18,200 - fund_management - INFO - Request to update performance for fund 9a0f796d-bc0a-4f31-8810-fad7216eaa20: 15.0
+2025-04-21 21:30:18,200 - fund_management - WARNING - Fund not found when updating performance: 9a0f796d-bc0a-4f31-8810-fad7216eaa20
+2025-04-21 21:30:18,200 - fund_management - WARNING - Fund not found: 9a0f796d-bc0a-4f31-8810-fad7216eaa20
+2025-04-21 21:30:18,201 - fund_management - INFO - Request 44d19a45-0e90-4567-8bb4-9fe9e2f212a4 completed: Status 404 (0.0052s)
+2025-04-21 21:30:18,202 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/9a0f796d-bc0a-4f31-8810-fad7216eaa20/performance "HTTP/1.1 404 Not Found"
+2025-04-21 21:30:18,209 - fund_management - INFO - Request e8539b27-1e4b-4ed5-8500-f75b91cbc613 started: DELETE /api/funds/54237fb2-06ce-4588-88f1-6f6d470bd4bf from testclient
+2025-04-21 21:30:18,211 - fund_management - INFO - Request to delete fund: 54237fb2-06ce-4588-88f1-6f6d470bd4bf
+2025-04-21 21:30:18,211 - fund_management - INFO - Fund deleted successfully: 54237fb2-06ce-4588-88f1-6f6d470bd4bf
+2025-04-21 21:30:18,211 - fund_management - INFO - Request e8539b27-1e4b-4ed5-8500-f75b91cbc613 completed: Status 204 (0.0022s)
+2025-04-21 21:30:18,211 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/54237fb2-06ce-4588-88f1-6f6d470bd4bf "HTTP/1.1 204 No Content"
+2025-04-21 21:30:18,219 - fund_management - INFO - Request e025f4e7-8865-4319-8343-8f25289e23d7 started: DELETE /api/funds/16d9a9e9-1646-4884-a40a-66d3ec40e3e2 from testclient
+2025-04-21 21:30:18,219 - fund_management - INFO - Request to delete fund: 16d9a9e9-1646-4884-a40a-66d3ec40e3e2
+2025-04-21 21:30:18,219 - fund_management - WARNING - Fund not found when attempting to delete: 16d9a9e9-1646-4884-a40a-66d3ec40e3e2
+2025-04-21 21:30:18,222 - fund_management - WARNING - Fund not found: 16d9a9e9-1646-4884-a40a-66d3ec40e3e2
+2025-04-21 21:30:18,222 - fund_management - INFO - Request e025f4e7-8865-4319-8343-8f25289e23d7 completed: Status 404 (0.0030s)
+2025-04-21 21:30:18,225 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/16d9a9e9-1646-4884-a40a-66d3ec40e3e2 "HTTP/1.1 404 Not Found"
+2025-04-22 00:11:31,530 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:31,593 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:31,593 - fund_management - INFO - Created fund: Test Growth Fund (ID: 9f6a8017-9309-4d64-9e46-2ad9f436aeb6)
+2025-04-22 00:11:31,593 - fund_management - INFO - Created fund: Test Income Fund (ID: 6370df8d-e83f-403a-b058-97b77dc0a084)
+2025-04-22 00:11:31,593 - fund_management - INFO - Created fund: Test Balanced Fund (ID: a43c230b-ba12-4841-a825-a607c4f15652)
+2025-04-22 00:11:31,593 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:45,945 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:45,999 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:45,999 - fund_management - INFO - Created fund: Test Growth Fund (ID: 260ac9c0-cc86-46b6-bacd-d2f085e1ba64)
+2025-04-22 00:11:45,999 - fund_management - INFO - Created fund: Test Income Fund (ID: f5179622-8303-4fa1-b66b-f61e8de1db48)
+2025-04-22 00:11:45,999 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 1746d551-2628-4344-a227-e89e8c20c89d)
+2025-04-22 00:11:45,999 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,003 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,004 - fund_management - INFO - Created fund: Test Growth Fund (ID: eb2be833-edca-4ac9-9dda-8c7c8236716a)
+2025-04-22 00:11:46,004 - fund_management - INFO - Created fund: Test Income Fund (ID: 70cc7388-7ac3-4802-92e0-010e775bb596)
+2025-04-22 00:11:46,004 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 1db48767-5809-4aa7-90b0-c0ee55fbf642)
+2025-04-22 00:11:46,005 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,007 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,008 - fund_management - INFO - Created fund: Test Growth Fund (ID: 9768a4b6-3535-423c-9fa7-dd07a9c2bb86)
+2025-04-22 00:11:46,008 - fund_management - INFO - Created fund: Test Income Fund (ID: 7bc58b39-247d-402a-87a4-8fc30fcc0fb2)
+2025-04-22 00:11:46,008 - fund_management - INFO - Created fund: Test Balanced Fund (ID: a708f3a9-d80c-4ed3-9cc6-9723baf4d1dc)
+2025-04-22 00:11:46,008 - fund_management - WARNING - Fund not found: 49de8669-ddb9-4f0e-85f1-73f1491700c5
+2025-04-22 00:11:46,009 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,010 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,012 - fund_management - INFO - Created fund: New Test Fund (ID: d4974747-0912-401f-92b7-1d376c8b91fb)
+2025-04-22 00:11:46,012 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,014 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,109 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,111 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,111 - fund_management - INFO - Created fund: Test Growth Fund (ID: 72d690f6-da38-4b9c-a32d-5faf76436a86)
+2025-04-22 00:11:46,111 - fund_management - INFO - Created fund: Test Income Fund (ID: b23b7e9d-4b21-4eac-9ac8-e074b4d150ce)
+2025-04-22 00:11:46,111 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 874c0f34-9f63-4431-a99e-2f7b61bb35a5)
+2025-04-22 00:11:46,111 - fund_management - INFO - Updated performance for fund ID 72d690f6-da38-4b9c-a32d-5faf76436a86 to 15.0
+2025-04-22 00:11:46,114 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,114 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,116 - fund_management - INFO - Created fund: Test Growth Fund (ID: 98185b18-90c5-405b-a666-7177dec2cf5a)
+2025-04-22 00:11:46,116 - fund_management - INFO - Created fund: Test Income Fund (ID: 7123e79e-b1a6-4ee4-9691-5d6750dd0baa)
+2025-04-22 00:11:46,116 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 4c122615-5ff6-4927-a3d5-bc7786405c2d)
+2025-04-22 00:11:46,116 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,118 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,118 - fund_management - INFO - Created fund: Test Growth Fund (ID: d3c7b30a-97e8-4003-a0ce-5d5cf67c02da)
+2025-04-22 00:11:46,118 - fund_management - INFO - Created fund: Test Income Fund (ID: badefb83-a09c-4f4f-a3e0-471f5495a590)
+2025-04-22 00:11:46,119 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 9ad681bc-e541-4ae3-8a63-0ac7cc8db4f6)
+2025-04-22 00:11:46,119 - fund_management - INFO - Deleted fund ID d3c7b30a-97e8-4003-a0ce-5d5cf67c02da
+2025-04-22 00:11:46,121 - fund_management - WARNING - Fund not found: d3c7b30a-97e8-4003-a0ce-5d5cf67c02da
+2025-04-22 00:11:46,122 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:11:46,122 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:11:46,123 - fund_management - INFO - Created fund: Test Growth Fund (ID: 3869513a-5a6a-4010-8663-080e13a1d211)
+2025-04-22 00:11:46,123 - fund_management - INFO - Created fund: Test Income Fund (ID: 0919ed37-2318-4c61-8990-49269175ec31)
+2025-04-22 00:11:46,123 - fund_management - INFO - Created fund: Test Balanced Fund (ID: a32df3c1-79a1-47f6-8856-d85fb4b4734c)
+2025-04-22 00:11:46,125 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,716 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,786 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Growth Fund (ID: 23dedcb2-1637-4122-ac89-06a9072e6231)
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Income Fund (ID: 58ef6bd6-e8e9-4b85-b8eb-8d5fc8d4b1f5)
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 6d147211-26bf-4080-bf48-67edd40750c1)
+2025-04-22 00:18:51,787 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,787 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Growth Fund (ID: 68cf8c48-08b9-401d-ad8c-9829647e041f)
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Income Fund (ID: ddb8a673-9cae-41d8-acde-76c86475645c)
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 71ec8e8b-c92b-41c6-ac3e-7095cb5f1978)
+2025-04-22 00:18:51,787 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,787 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Growth Fund (ID: a342899f-9023-4744-a4fa-bead939aef30)
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Income Fund (ID: e19d3ea3-5eee-45b3-8a8f-a342e787dc28)
+2025-04-22 00:18:51,787 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 0e4c128f-d768-4c2f-b209-1e5138d6deb7)
+2025-04-22 00:18:51,787 - fund_management - WARNING - Fund not found: c3ac2d2f-eaad-4e31-96bd-d210222c44b9
+2025-04-22 00:18:51,787 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,796 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,797 - fund_management - INFO - Created fund: New Test Fund (ID: e266567a-c792-4101-85c7-296fe9d4e18c)
+2025-04-22 00:18:51,797 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,799 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,883 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,886 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,886 - fund_management - INFO - Created fund: Test Growth Fund (ID: 4e02e73d-0248-4165-99ed-dbf845e0624e)
+2025-04-22 00:18:51,886 - fund_management - INFO - Created fund: Test Income Fund (ID: 6385f8cb-7bc3-4071-b123-c3ac823f0043)
+2025-04-22 00:18:51,886 - fund_management - INFO - Created fund: Test Balanced Fund (ID: eb0c5bc3-6e86-43a2-ad11-ebb69264a46d)
+2025-04-22 00:18:51,886 - fund_management - INFO - Updated performance for fund ID 4e02e73d-0248-4165-99ed-dbf845e0624e to 15.0
+2025-04-22 00:18:51,888 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,888 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,888 - fund_management - INFO - Created fund: Test Growth Fund (ID: b060cbeb-c6bb-409d-9ac5-11e44f7ab41f)
+2025-04-22 00:18:51,888 - fund_management - INFO - Created fund: Test Income Fund (ID: bd997c3c-cf11-4922-9c63-c88c01b9b316)
+2025-04-22 00:18:51,888 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 19958809-37fc-4b32-94ab-46ffcf9a0b47)
+2025-04-22 00:18:51,888 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,888 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,888 - fund_management - INFO - Created fund: Test Growth Fund (ID: b30cd383-f908-4dff-9e7e-844dbde4d2b0)
+2025-04-22 00:18:51,888 - fund_management - INFO - Created fund: Test Income Fund (ID: c00b19fd-d854-4f45-9836-a686c742b4d1)
+2025-04-22 00:18:51,888 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 0054d316-f820-41cb-92d6-13375a2dc630)
+2025-04-22 00:18:51,888 - fund_management - INFO - Deleted fund ID b30cd383-f908-4dff-9e7e-844dbde4d2b0
+2025-04-22 00:18:51,888 - fund_management - WARNING - Fund not found: b30cd383-f908-4dff-9e7e-844dbde4d2b0
+2025-04-22 00:18:51,888 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:18:51,896 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:18:51,897 - fund_management - INFO - Created fund: Test Growth Fund (ID: 4ca5f8e6-84c7-4ef1-81ff-b77d27bd046e)
+2025-04-22 00:18:51,897 - fund_management - INFO - Created fund: Test Income Fund (ID: 180f8b88-1b0e-4dd6-a3e4-db3fec766b99)
+2025-04-22 00:18:51,897 - fund_management - INFO - Created fund: Test Balanced Fund (ID: b692d9b4-44cf-4b09-9f47-80007a8a8d28)
+2025-04-22 00:18:51,898 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,599 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,668 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,669 - fund_management - INFO - Created fund: Test Growth Fund (ID: 8735d289-eefe-405c-b101-a926fc0f06d0)
+2025-04-22 00:21:42,669 - fund_management - INFO - Created fund: Test Income Fund (ID: 1f911696-3983-4529-9b09-454019210809)
+2025-04-22 00:21:42,669 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 876d41e4-08d3-4032-8773-ca183c9f8fc0)
+2025-04-22 00:21:42,671 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,674 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,674 - fund_management - INFO - Created fund: Test Growth Fund (ID: d94a30a6-0c0a-4fa8-9580-02fce1dbb5ba)
+2025-04-22 00:21:42,675 - fund_management - INFO - Created fund: Test Income Fund (ID: a8fe1c32-ac38-4a06-ab91-e035af1c4032)
+2025-04-22 00:21:42,675 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 4bbff957-8990-4832-959a-b3fb5460a866)
+2025-04-22 00:21:42,676 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,678 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,678 - fund_management - INFO - Created fund: Test Growth Fund (ID: 480037d2-d974-4647-84a4-0ea8b566986e)
+2025-04-22 00:21:42,679 - fund_management - INFO - Created fund: Test Income Fund (ID: e918bd48-766a-49fd-b245-1aa5c1c25c7b)
+2025-04-22 00:21:42,679 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 99ae4fae-6be1-41b8-a59b-06ec0108a0ca)
+2025-04-22 00:21:42,681 - fund_management - WARNING - Fund not found: 9dacb77b-dc13-4113-a686-042a02c52658
+2025-04-22 00:21:42,682 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,684 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,685 - fund_management - INFO - Created fund: New Test Fund (ID: 2b743cdc-9729-4147-9098-19d7dc5a3002)
+2025-04-22 00:21:42,686 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,689 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,802 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,807 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,807 - fund_management - INFO - Created fund: Test Growth Fund (ID: cdae68b9-ab9e-4cbc-9bb1-5030a5cbed70)
+2025-04-22 00:21:42,807 - fund_management - INFO - Created fund: Test Income Fund (ID: a33e3dec-2ffc-48cf-b2ed-95ed1727a39b)
+2025-04-22 00:21:42,809 - fund_management - INFO - Created fund: Test Balanced Fund (ID: b6e6bb21-404b-4ff5-8bde-cbc725de5469)
+2025-04-22 00:21:42,809 - fund_management - INFO - Updated performance for fund ID cdae68b9-ab9e-4cbc-9bb1-5030a5cbed70 to 15.0
+2025-04-22 00:21:42,810 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,812 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,812 - fund_management - INFO - Created fund: Test Growth Fund (ID: 9c7b9eb2-e3c7-4f3f-b85c-208e14f746e3)
+2025-04-22 00:21:42,812 - fund_management - INFO - Created fund: Test Income Fund (ID: fc99c602-3a38-4b6a-99ba-d3cdbea98582)
+2025-04-22 00:21:42,812 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 4c930a13-579f-4d1c-8312-3e286689e141)
+2025-04-22 00:21:42,814 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,817 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,818 - fund_management - INFO - Created fund: Test Growth Fund (ID: 9db5586c-57ee-4a79-ba68-9f9af85ffc8e)
+2025-04-22 00:21:42,818 - fund_management - INFO - Created fund: Test Income Fund (ID: c4c4f2fa-86a4-429a-8213-4b0aafdae602)
+2025-04-22 00:21:42,818 - fund_management - INFO - Created fund: Test Balanced Fund (ID: cf8793e1-613d-4d49-9b6c-5204598407dd)
+2025-04-22 00:21:42,819 - fund_management - INFO - Deleted fund ID 9db5586c-57ee-4a79-ba68-9f9af85ffc8e
+2025-04-22 00:21:42,819 - fund_management - WARNING - Fund not found: 9db5586c-57ee-4a79-ba68-9f9af85ffc8e
+2025-04-22 00:21:42,820 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:21:42,822 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:21:42,822 - fund_management - INFO - Created fund: Test Growth Fund (ID: 3285db89-e0ce-4650-802b-a64234224eff)
+2025-04-22 00:21:42,823 - fund_management - INFO - Created fund: Test Income Fund (ID: e5ccd7f7-366b-4575-85c9-f547bcdfa9ad)
+2025-04-22 00:21:42,823 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 1b1cece6-18ca-430d-9fc0-2b805bf09294)
+2025-04-22 00:21:42,823 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:43,963 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,024 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,025 - fund_management - INFO - Created fund: Test Growth Fund (ID: 558f693a-272e-4753-ac87-50c43d926685)
+2025-04-22 00:27:44,025 - fund_management - INFO - Created fund: Test Income Fund (ID: 89c55525-9400-47c0-971a-0107fc815012)
+2025-04-22 00:27:44,025 - fund_management - INFO - Created fund: Test Balanced Fund (ID: b2d5949b-6167-4d6f-a569-afb9e67453f0)
+2025-04-22 00:27:44,027 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,028 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,029 - fund_management - INFO - Created fund: Test Growth Fund (ID: 70373b8f-c675-4285-87ec-b01b40932d89)
+2025-04-22 00:27:44,029 - fund_management - INFO - Created fund: Test Income Fund (ID: b96e6e15-8ea1-4546-8e73-427f251817ec)
+2025-04-22 00:27:44,029 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 21c9851d-8bcf-461f-8421-9186311763e2)
+2025-04-22 00:27:44,030 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,031 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,031 - fund_management - INFO - Created fund: Test Growth Fund (ID: 4f65519a-f86a-4ef9-87e0-5cc7b98a9e8a)
+2025-04-22 00:27:44,032 - fund_management - INFO - Created fund: Test Income Fund (ID: 3469c3f5-fc04-4cbc-ae05-21f13c21b856)
+2025-04-22 00:27:44,032 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 8ee62568-e20e-4fd6-906b-fbd732a4bea2)
+2025-04-22 00:27:44,032 - fund_management - WARNING - Fund not found: 97490dc8-e502-455f-a9ea-91750ea7eddb
+2025-04-22 00:27:44,034 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,034 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,035 - fund_management - INFO - Created fund: New Test Fund (ID: a7b7765a-bd7c-4138-9a25-efc224211874)
+2025-04-22 00:27:44,035 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,038 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,040 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,043 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,044 - fund_management - INFO - Created fund: Test Growth Fund (ID: 2a8e8e48-9f4a-4d2d-b48e-e2c88278445a)
+2025-04-22 00:27:44,044 - fund_management - INFO - Created fund: Test Income Fund (ID: 10a59dd6-c760-4da8-a4c2-327084a3cf1d)
+2025-04-22 00:27:44,044 - fund_management - INFO - Created fund: Test Balanced Fund (ID: a11259bf-1d5a-46d7-9ada-880f18760ff6)
+2025-04-22 00:27:44,045 - fund_management - INFO - Updated performance for fund ID 2a8e8e48-9f4a-4d2d-b48e-e2c88278445a to 15.0
+2025-04-22 00:27:44,046 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,048 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,048 - fund_management - INFO - Created fund: Test Growth Fund (ID: 3fce067f-7d79-4dd9-9ee7-36310b433ace)
+2025-04-22 00:27:44,048 - fund_management - INFO - Created fund: Test Income Fund (ID: 18054434-1afe-4126-b92a-2c722e297742)
+2025-04-22 00:27:44,048 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 160c5421-e3f9-4e34-8b46-c7bb82872824)
+2025-04-22 00:27:44,049 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,050 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,051 - fund_management - INFO - Created fund: Test Growth Fund (ID: a721f680-8253-460b-ab76-8e809538c240)
+2025-04-22 00:27:44,051 - fund_management - INFO - Created fund: Test Income Fund (ID: 0f627981-ec21-4a48-a165-322cff7497b1)
+2025-04-22 00:27:44,051 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 1a1bcb3b-8071-4c0d-b0aa-7d8ba54183ce)
+2025-04-22 00:27:44,052 - fund_management - INFO - Deleted fund ID a721f680-8253-460b-ab76-8e809538c240
+2025-04-22 00:27:44,052 - fund_management - WARNING - Fund not found: a721f680-8253-460b-ab76-8e809538c240
+2025-04-22 00:27:44,052 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:44,055 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:44,055 - fund_management - INFO - Created fund: Test Growth Fund (ID: 8c9fac8c-28c2-4ca8-a7c1-511398b6ea0b)
+2025-04-22 00:27:44,055 - fund_management - INFO - Created fund: Test Income Fund (ID: 3b0fe75b-b41e-4071-b72e-dc397b50a8dc)
+2025-04-22 00:27:44,055 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 10806864-76af-466c-b0e9-842f1a68f62a)
+2025-04-22 00:27:44,056 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 00:27:56,889 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:27:56,958 - fund_management - INFO - Request 045c22f0-315e-48d2-be33-71c896c8c0a2 started: GET / from testclient
+2025-04-22 00:27:56,959 - fund_management - INFO - Root endpoint accessed
+2025-04-22 00:27:56,960 - fund_management - INFO - Request 045c22f0-315e-48d2-be33-71c896c8c0a2 completed: Status 200 (0.0021s)
+2025-04-22 00:27:56,962 - httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2025-04-22 00:27:56,968 - fund_management - INFO - Request 22a9df0e-25c6-4b7d-9981-1f1df0b72fcd started: GET /api/funds/ from testclient
+2025-04-22 00:27:56,968 - fund_management - INFO - Request to get all funds
+2025-04-22 00:27:56,968 - fund_management - INFO - Retrieved 0 funds
+2025-04-22 00:27:56,972 - fund_management - INFO - Request 22a9df0e-25c6-4b7d-9981-1f1df0b72fcd completed: Status 200 (0.0041s)
+2025-04-22 00:27:56,974 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 00:27:56,979 - fund_management - INFO - Request 12339a34-10ed-41e6-8f10-8895af694660 started: GET /api/funds/ from testclient
+2025-04-22 00:27:56,981 - fund_management - INFO - Request to get all funds
+2025-04-22 00:27:56,981 - fund_management - INFO - Retrieved 3 funds
+2025-04-22 00:27:56,984 - fund_management - INFO - Request 12339a34-10ed-41e6-8f10-8895af694660 completed: Status 200 (0.0054s)
+2025-04-22 00:27:56,985 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 00:27:56,992 - fund_management - INFO - Request e92225d9-f3d4-4242-8500-a37bc10d9be1 started: POST /api/funds/ from testclient
+2025-04-22 00:27:56,995 - fund_management - INFO - Request to create new fund: API Test Fund
+2025-04-22 00:27:56,995 - fund_management - INFO - Fund created successfully: 5993a949-4161-43cd-a733-3bbe170dc17a
+2025-04-22 00:27:56,996 - fund_management - INFO - Request e92225d9-f3d4-4242-8500-a37bc10d9be1 completed: Status 201 (0.0040s)
+2025-04-22 00:27:56,997 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 201 Created"
+2025-04-22 00:27:57,000 - fund_management - INFO - Request d04b1955-22cc-4e4e-b290-3540c842931c started: POST /api/funds/ from testclient
+2025-04-22 00:27:57,003 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 00:27:57,003 - fund_management - INFO - Request d04b1955-22cc-4e4e-b290-3540c842931c completed: Status 422 (0.0030s)
+2025-04-22 00:27:57,006 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 00:27:57,011 - fund_management - INFO - Request 0694728a-5648-4215-aaa6-a88bfc9a37ea started: GET /api/funds/b8c2f0b7-fe51-47e6-bf60-50ffbf6ed8e2 from testclient
+2025-04-22 00:27:57,012 - fund_management - INFO - Request to get fund by ID: b8c2f0b7-fe51-47e6-bf60-50ffbf6ed8e2
+2025-04-22 00:27:57,012 - fund_management - INFO - Retrieved fund: Test Growth Fund
+2025-04-22 00:27:57,013 - fund_management - INFO - Request 0694728a-5648-4215-aaa6-a88bfc9a37ea completed: Status 200 (0.0029s)
+2025-04-22 00:27:57,014 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/b8c2f0b7-fe51-47e6-bf60-50ffbf6ed8e2 "HTTP/1.1 200 OK"
+2025-04-22 00:27:57,019 - fund_management - INFO - Request a14a4f92-f1e2-4886-9e35-b16a4bcbde7d started: GET /api/funds/9f7f10d4-ccd6-4c96-8da2-261d18b51555 from testclient
+2025-04-22 00:27:57,021 - fund_management - INFO - Request to get fund by ID: 9f7f10d4-ccd6-4c96-8da2-261d18b51555
+2025-04-22 00:27:57,022 - fund_management - WARNING - Fund not found: 9f7f10d4-ccd6-4c96-8da2-261d18b51555
+2025-04-22 00:27:57,022 - fund_management - WARNING - Fund not found: 9f7f10d4-ccd6-4c96-8da2-261d18b51555
+2025-04-22 00:27:57,022 - fund_management - INFO - Request a14a4f92-f1e2-4886-9e35-b16a4bcbde7d completed: Status 404 (0.0034s)
+2025-04-22 00:27:57,024 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/9f7f10d4-ccd6-4c96-8da2-261d18b51555 "HTTP/1.1 404 Not Found"
+2025-04-22 00:27:57,029 - fund_management - INFO - Request 0c54adc8-caf3-4bea-9e98-aa5a67e9eff2 started: PATCH /api/funds/b9c5ad3d-b165-4ed4-9b58-b0ba8fe8607c/performance from testclient
+2025-04-22 00:27:57,031 - fund_management - INFO - Request to update performance for fund b9c5ad3d-b165-4ed4-9b58-b0ba8fe8607c: 20.0
+2025-04-22 00:27:57,031 - fund_management - INFO - Updated performance for fund b9c5ad3d-b165-4ed4-9b58-b0ba8fe8607c to 20.0
+2025-04-22 00:27:57,031 - fund_management - INFO - Request 0c54adc8-caf3-4bea-9e98-aa5a67e9eff2 completed: Status 200 (0.0028s)
+2025-04-22 00:27:57,033 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/b9c5ad3d-b165-4ed4-9b58-b0ba8fe8607c/performance "HTTP/1.1 200 OK"
+2025-04-22 00:27:57,038 - fund_management - INFO - Request 05c348ec-16a6-43ce-b113-c102b76fa48a started: PATCH /api/funds/6f72f5f4-d81a-4368-ab72-5aee470631ab/performance from testclient
+2025-04-22 00:27:57,040 - fund_management - INFO - Request to update performance for fund 6f72f5f4-d81a-4368-ab72-5aee470631ab: 15.0
+2025-04-22 00:27:57,040 - fund_management - WARNING - Fund not found when updating performance: 6f72f5f4-d81a-4368-ab72-5aee470631ab
+2025-04-22 00:27:57,041 - fund_management - WARNING - Fund not found: 6f72f5f4-d81a-4368-ab72-5aee470631ab
+2025-04-22 00:27:57,041 - fund_management - INFO - Request 05c348ec-16a6-43ce-b113-c102b76fa48a completed: Status 404 (0.0033s)
+2025-04-22 00:27:57,043 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/6f72f5f4-d81a-4368-ab72-5aee470631ab/performance "HTTP/1.1 404 Not Found"
+2025-04-22 00:27:57,048 - fund_management - INFO - Request 1ae9e926-ec3a-436b-825e-785cc00a0820 started: DELETE /api/funds/91e7e8cd-93c7-4f85-a43d-0bc8448b5c80 from testclient
+2025-04-22 00:27:57,049 - fund_management - INFO - Request to delete fund: 91e7e8cd-93c7-4f85-a43d-0bc8448b5c80
+2025-04-22 00:27:57,049 - fund_management - INFO - Fund deleted successfully: 91e7e8cd-93c7-4f85-a43d-0bc8448b5c80
+2025-04-22 00:27:57,049 - fund_management - INFO - Request 1ae9e926-ec3a-436b-825e-785cc00a0820 completed: Status 204 (0.0015s)
+2025-04-22 00:27:57,051 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/91e7e8cd-93c7-4f85-a43d-0bc8448b5c80 "HTTP/1.1 204 No Content"
+2025-04-22 00:27:57,056 - fund_management - INFO - Request 46774b6a-4622-44dc-91f4-5398c99f91e8 started: DELETE /api/funds/348e860a-97d4-4473-adc8-626a0b41a905 from testclient
+2025-04-22 00:27:57,057 - fund_management - INFO - Request to delete fund: 348e860a-97d4-4473-adc8-626a0b41a905
+2025-04-22 00:27:57,057 - fund_management - WARNING - Fund not found when attempting to delete: 348e860a-97d4-4473-adc8-626a0b41a905
+2025-04-22 00:27:57,057 - fund_management - WARNING - Fund not found: 348e860a-97d4-4473-adc8-626a0b41a905
+2025-04-22 00:27:57,057 - fund_management - INFO - Request 46774b6a-4622-44dc-91f4-5398c99f91e8 completed: Status 404 (0.0017s)
+2025-04-22 00:27:57,060 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/348e860a-97d4-4473-adc8-626a0b41a905 "HTTP/1.1 404 Not Found"
+2025-04-22 00:28:04,189 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:28:11,917 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 00:28:11,989 - fund_management - INFO - Request bf013ccd-3c38-4d76-94da-5ccea6aea684 started: GET /api/funds/ from testclient
+2025-04-22 00:28:11,992 - fund_management - INFO - Request to get all funds
+2025-04-22 00:28:11,992 - fund_management - ERROR - Database error: Test database error
+Traceback (most recent call last):
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\app\api\routes.py", line 36, in get_all_funds
+    funds = db.get_all_funds()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\tests\test_error_handling.py", line 11, in mock_get_all_funds
+    raise DatabaseError("Test database error", {"detail": "Connection failed"})
+app.utils.error_handlers.DatabaseError: Test database error
+2025-04-22 00:28:11,998 - fund_management - INFO - Request bf013ccd-3c38-4d76-94da-5ccea6aea684 completed: Status 500 (0.0090s)
+2025-04-22 00:28:12,000 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 500 Internal Server Error"
+2025-04-22 00:28:12,007 - fund_management - INFO - Request 41b46b29-1db3-4b60-a76b-a4921a3a5d34 started: GET /api/funds/b99a21e8-e9dc-422e-8ef2-bb0ce9c6ffee from testclient
+2025-04-22 00:28:12,009 - fund_management - INFO - Request to get fund by ID: b99a21e8-e9dc-422e-8ef2-bb0ce9c6ffee
+2025-04-22 00:28:12,009 - fund_management - WARNING - Fund not found: b99a21e8-e9dc-422e-8ef2-bb0ce9c6ffee
+2025-04-22 00:28:12,009 - fund_management - WARNING - Fund not found: b99a21e8-e9dc-422e-8ef2-bb0ce9c6ffee
+2025-04-22 00:28:12,009 - fund_management - INFO - Request 41b46b29-1db3-4b60-a76b-a4921a3a5d34 completed: Status 404 (0.0021s)
+2025-04-22 00:28:12,010 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/b99a21e8-e9dc-422e-8ef2-bb0ce9c6ffee "HTTP/1.1 404 Not Found"
+2025-04-22 00:28:12,016 - fund_management - INFO - Request 5616a448-1752-47df-a129-69266ccf8ca5 started: POST /api/funds/ from testclient
+2025-04-22 00:28:12,019 - fund_management - INFO - Request to create new fund: Test Fund
+2025-04-22 00:28:12,019 - fund_management - WARNING - Validation error when creating fund: Test Fund
+2025-04-22 00:28:12,019 - fund_management - WARNING - Validation error: Test validation error
+2025-04-22 00:28:12,020 - fund_management - INFO - Request 5616a448-1752-47df-a129-69266ccf8ca5 completed: Status 400 (0.0040s)
+2025-04-22 00:28:12,021 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 400 Bad Request"
+2025-04-22 00:28:12,025 - fund_management - INFO - Request 0c21617e-f6cf-45a0-b5b5-d4bcda479afd started: POST /api/funds/ from testclient
+2025-04-22 00:28:12,027 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 00:28:12,027 - fund_management - INFO - Request 0c21617e-f6cf-45a0-b5b5-d4bcda479afd completed: Status 422 (0.0021s)
+2025-04-22 00:28:12,029 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 01:11:18,938 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,121 - fund_management - INFO - Request 18855b51-5c3c-4654-8502-71778b67adaf started: GET / from testclient
+2025-04-22 01:11:19,121 - fund_management - INFO - Root endpoint accessed
+2025-04-22 01:11:19,121 - fund_management - INFO - Request 18855b51-5c3c-4654-8502-71778b67adaf completed: Status 200 (0.0000s)
+2025-04-22 01:11:19,126 - httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2025-04-22 01:11:19,132 - fund_management - INFO - Request 7ce93327-e98f-4dbe-ac9c-d3d27145db89 started: GET /api/funds/ from testclient
+2025-04-22 01:11:19,136 - fund_management - INFO - Request to get all funds
+2025-04-22 01:11:19,136 - fund_management - INFO - Retrieved 0 funds
+2025-04-22 01:11:19,136 - fund_management - INFO - Request 7ce93327-e98f-4dbe-ac9c-d3d27145db89 completed: Status 200 (0.0040s)
+2025-04-22 01:11:19,140 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 01:11:19,146 - fund_management - INFO - Request 0da7079b-f429-4d19-b356-452f6f9146de started: GET /api/funds/ from testclient
+2025-04-22 01:11:19,148 - fund_management - INFO - Request to get all funds
+2025-04-22 01:11:19,148 - fund_management - INFO - Retrieved 3 funds
+2025-04-22 01:11:19,148 - fund_management - INFO - Request 0da7079b-f429-4d19-b356-452f6f9146de completed: Status 200 (0.0025s)
+2025-04-22 01:11:19,153 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 01:11:19,158 - fund_management - INFO - Request 03e9edea-d676-46d3-b332-3872ce6638fb started: POST /api/funds/ from testclient
+2025-04-22 01:11:19,162 - fund_management - INFO - Request to create new fund: API Test Fund
+2025-04-22 01:11:19,162 - fund_management - INFO - Fund created successfully: 829f3d3a-6299-479c-8971-490077d8a3c4
+2025-04-22 01:11:19,165 - fund_management - INFO - Request 03e9edea-d676-46d3-b332-3872ce6638fb completed: Status 201 (0.0068s)
+2025-04-22 01:11:19,167 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 201 Created"
+2025-04-22 01:11:19,174 - fund_management - INFO - Request ccfed5d8-eaff-4346-984c-9d093760fa6d started: POST /api/funds/ from testclient
+2025-04-22 01:11:19,178 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 01:11:19,178 - fund_management - INFO - Request ccfed5d8-eaff-4346-984c-9d093760fa6d completed: Status 422 (0.0040s)
+2025-04-22 01:11:19,182 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 01:11:19,189 - fund_management - INFO - Request 1f6aa757-8e38-4da7-9406-675101769d52 started: GET /api/funds/f68feabc-15d1-4715-8123-ac3d3195d7db from testclient
+2025-04-22 01:11:19,192 - fund_management - INFO - Request to get fund by ID: f68feabc-15d1-4715-8123-ac3d3195d7db
+2025-04-22 01:11:19,194 - fund_management - INFO - Retrieved fund: Test Growth Fund
+2025-04-22 01:11:19,194 - fund_management - INFO - Request 1f6aa757-8e38-4da7-9406-675101769d52 completed: Status 200 (0.0052s)
+2025-04-22 01:11:19,196 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/f68feabc-15d1-4715-8123-ac3d3195d7db "HTTP/1.1 200 OK"
+2025-04-22 01:11:19,201 - fund_management - INFO - Request 2c5de85a-e829-4f33-95f5-d84e7f92d630 started: GET /api/funds/7755a0bd-60bb-4ea9-abc9-b927e087c6ef from testclient
+2025-04-22 01:11:19,201 - fund_management - INFO - Request to get fund by ID: 7755a0bd-60bb-4ea9-abc9-b927e087c6ef
+2025-04-22 01:11:19,201 - fund_management - WARNING - Fund not found: 7755a0bd-60bb-4ea9-abc9-b927e087c6ef
+2025-04-22 01:11:19,201 - fund_management - WARNING - Fund not found: 7755a0bd-60bb-4ea9-abc9-b927e087c6ef
+2025-04-22 01:11:19,209 - fund_management - INFO - Request 2c5de85a-e829-4f33-95f5-d84e7f92d630 completed: Status 404 (0.0080s)
+2025-04-22 01:11:19,210 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/7755a0bd-60bb-4ea9-abc9-b927e087c6ef "HTTP/1.1 404 Not Found"
+2025-04-22 01:11:19,218 - fund_management - INFO - Request 91e07ad7-bb82-4b33-8ed2-b4cc29920861 started: PATCH /api/funds/4bb45450-f8b2-4736-bd8e-fd8639bc2bef/performance from testclient
+2025-04-22 01:11:19,222 - fund_management - INFO - Request to update performance for fund 4bb45450-f8b2-4736-bd8e-fd8639bc2bef: 20.0
+2025-04-22 01:11:19,222 - fund_management - INFO - Updated performance for fund 4bb45450-f8b2-4736-bd8e-fd8639bc2bef to 20.0
+2025-04-22 01:11:19,222 - fund_management - INFO - Request 91e07ad7-bb82-4b33-8ed2-b4cc29920861 completed: Status 200 (0.0047s)
+2025-04-22 01:11:19,226 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/4bb45450-f8b2-4736-bd8e-fd8639bc2bef/performance "HTTP/1.1 200 OK"
+2025-04-22 01:11:19,231 - fund_management - INFO - Request e428575f-6e46-40f8-b2ed-6329e73c6d9c started: PATCH /api/funds/85b33715-03f0-4f4e-9cc7-906378dbb2a4/performance from testclient
+2025-04-22 01:11:19,234 - fund_management - INFO - Request to update performance for fund 85b33715-03f0-4f4e-9cc7-906378dbb2a4: 15.0
+2025-04-22 01:11:19,234 - fund_management - WARNING - Fund not found when updating performance: 85b33715-03f0-4f4e-9cc7-906378dbb2a4
+2025-04-22 01:11:19,234 - fund_management - WARNING - Fund not found: 85b33715-03f0-4f4e-9cc7-906378dbb2a4
+2025-04-22 01:11:19,234 - fund_management - INFO - Request e428575f-6e46-40f8-b2ed-6329e73c6d9c completed: Status 404 (0.0034s)
+2025-04-22 01:11:19,237 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/85b33715-03f0-4f4e-9cc7-906378dbb2a4/performance "HTTP/1.1 404 Not Found"
+2025-04-22 01:11:19,243 - fund_management - INFO - Request a89b9b8b-b2a3-4455-991e-65fc95aab634 started: DELETE /api/funds/4945de3b-992e-4c05-a92c-2468e659555b from testclient
+2025-04-22 01:11:19,246 - fund_management - INFO - Request to delete fund: 4945de3b-992e-4c05-a92c-2468e659555b
+2025-04-22 01:11:19,247 - fund_management - INFO - Fund deleted successfully: 4945de3b-992e-4c05-a92c-2468e659555b
+2025-04-22 01:11:19,247 - fund_management - INFO - Request a89b9b8b-b2a3-4455-991e-65fc95aab634 completed: Status 204 (0.0038s)
+2025-04-22 01:11:19,249 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/4945de3b-992e-4c05-a92c-2468e659555b "HTTP/1.1 204 No Content"
+2025-04-22 01:11:19,257 - fund_management - INFO - Request 987052b8-36ae-4cc5-bcb1-2fa2e6a3b363 started: DELETE /api/funds/193cf39b-0484-48d0-9aea-3a18953d66b1 from testclient
+2025-04-22 01:11:19,261 - fund_management - INFO - Request to delete fund: 193cf39b-0484-48d0-9aea-3a18953d66b1
+2025-04-22 01:11:19,261 - fund_management - WARNING - Fund not found when attempting to delete: 193cf39b-0484-48d0-9aea-3a18953d66b1
+2025-04-22 01:11:19,261 - fund_management - WARNING - Fund not found: 193cf39b-0484-48d0-9aea-3a18953d66b1
+2025-04-22 01:11:19,262 - fund_management - INFO - Request 987052b8-36ae-4cc5-bcb1-2fa2e6a3b363 completed: Status 404 (0.0057s)
+2025-04-22 01:11:19,263 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/193cf39b-0484-48d0-9aea-3a18953d66b1 "HTTP/1.1 404 Not Found"
+2025-04-22 01:11:19,268 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,270 - fund_management - INFO - Created fund: Test Growth Fund (ID: ca5cb122-f8b3-4548-9917-6764ebb57af7)
+2025-04-22 01:11:19,270 - fund_management - INFO - Created fund: Test Income Fund (ID: d808c713-f591-420b-8fd3-c7a554fd640d)
+2025-04-22 01:11:19,270 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 293f4f20-0bc7-471d-ab1c-a92c25f982d2)
+2025-04-22 01:11:19,272 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,274 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,276 - fund_management - INFO - Created fund: Test Growth Fund (ID: 5fa8c817-1906-4974-aa20-cb2009082724)
+2025-04-22 01:11:19,276 - fund_management - INFO - Created fund: Test Income Fund (ID: 70a4fc82-f9b3-4a41-be6b-9f29b5baec5a)
+2025-04-22 01:11:19,276 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 0723acf1-e8f5-46a4-9139-1ebb824b8d21)
+2025-04-22 01:11:19,277 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,281 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,281 - fund_management - INFO - Created fund: Test Growth Fund (ID: c42786e8-01c5-458f-b444-c5a610a96a70)
+2025-04-22 01:11:19,281 - fund_management - INFO - Created fund: Test Income Fund (ID: 3731f220-7318-4f36-9f71-ef48231afafc)
+2025-04-22 01:11:19,281 - fund_management - INFO - Created fund: Test Balanced Fund (ID: a5bea040-7552-47a0-aed2-2bfec7c69d52)
+2025-04-22 01:11:19,283 - fund_management - WARNING - Fund not found: 3184382b-1da0-4e43-a666-121c144f080f
+2025-04-22 01:11:19,284 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,287 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,291 - fund_management - INFO - Created fund: New Test Fund (ID: 579bfdcc-77ea-4883-b4fc-d95ee12ee0eb)
+2025-04-22 01:11:19,293 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,296 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,300 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,303 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,303 - fund_management - INFO - Created fund: Test Growth Fund (ID: fd454b88-a774-4968-92e7-8633a26b2993)
+2025-04-22 01:11:19,303 - fund_management - INFO - Created fund: Test Income Fund (ID: 721f2e4d-49a2-4620-9c32-c37c1e29308b)
+2025-04-22 01:11:19,303 - fund_management - INFO - Created fund: Test Balanced Fund (ID: a0952ab4-0f02-4892-9d2b-3af075b325f9)
+2025-04-22 01:11:19,305 - fund_management - INFO - Updated performance for fund ID fd454b88-a774-4968-92e7-8633a26b2993 to 15.0
+2025-04-22 01:11:19,307 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,309 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,310 - fund_management - INFO - Created fund: Test Growth Fund (ID: 19ccf5e8-765c-4f30-a7b6-8434bfbfac59)
+2025-04-22 01:11:19,310 - fund_management - INFO - Created fund: Test Income Fund (ID: 659e6970-b657-4bb4-a787-44a1ccae41c3)
+2025-04-22 01:11:19,310 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 22d40b92-2c5d-46fe-bda7-f7e3118eb1ef)
+2025-04-22 01:11:19,312 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,314 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,314 - fund_management - INFO - Created fund: Test Growth Fund (ID: a4137117-08f9-4f4b-9496-8ad9b18b71ed)
+2025-04-22 01:11:19,314 - fund_management - INFO - Created fund: Test Income Fund (ID: 9a1ce822-2a09-4567-97e6-838a56214231)
+2025-04-22 01:11:19,314 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 9b9ac5ca-ffd2-4800-9333-6bf873fa00e4)
+2025-04-22 01:11:19,316 - fund_management - INFO - Deleted fund ID a4137117-08f9-4f4b-9496-8ad9b18b71ed
+2025-04-22 01:11:19,316 - fund_management - WARNING - Fund not found: a4137117-08f9-4f4b-9496-8ad9b18b71ed
+2025-04-22 01:11:19,318 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,320 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:11:19,322 - fund_management - INFO - Created fund: Test Growth Fund (ID: 5a54b3b3-f546-49e9-adca-58df64050fa0)
+2025-04-22 01:11:19,322 - fund_management - INFO - Created fund: Test Income Fund (ID: 95b783cf-9902-4d34-8b31-267c1b769651)
+2025-04-22 01:11:19,322 - fund_management - INFO - Created fund: Test Balanced Fund (ID: ebfdbf55-66a4-4de5-bc74-407cf74266c1)
+2025-04-22 01:11:19,324 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:11:19,329 - fund_management - INFO - Request fa1b72b2-8df3-4175-af62-6b3d6f800626 started: GET /api/funds/ from testclient
+2025-04-22 01:11:19,332 - fund_management - INFO - Request to get all funds
+2025-04-22 01:11:19,332 - fund_management - ERROR - Database error: Test database error
+Traceback (most recent call last):
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\app\api\routes.py", line 36, in get_all_funds
+    funds = db.get_all_funds()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\tests\test_error_handling.py", line 11, in mock_get_all_funds
+    raise DatabaseError("Test database error", {"detail": "Connection failed"})
+app.utils.error_handlers.DatabaseError: Test database error
+2025-04-22 01:11:19,336 - fund_management - INFO - Request fa1b72b2-8df3-4175-af62-6b3d6f800626 completed: Status 500 (0.0069s)
+2025-04-22 01:11:19,338 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 500 Internal Server Error"
+2025-04-22 01:11:19,346 - fund_management - INFO - Request a63c06d5-a076-4d2b-9880-152543063b3f started: GET /api/funds/028d346c-1d73-43cc-bba0-d57ce095685a from testclient
+2025-04-22 01:11:19,348 - fund_management - INFO - Request to get fund by ID: 028d346c-1d73-43cc-bba0-d57ce095685a
+2025-04-22 01:11:19,348 - fund_management - WARNING - Fund not found: 028d346c-1d73-43cc-bba0-d57ce095685a
+2025-04-22 01:11:19,348 - fund_management - WARNING - Fund not found: 028d346c-1d73-43cc-bba0-d57ce095685a
+2025-04-22 01:11:19,348 - fund_management - INFO - Request a63c06d5-a076-4d2b-9880-152543063b3f completed: Status 404 (0.0027s)
+2025-04-22 01:11:19,349 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/028d346c-1d73-43cc-bba0-d57ce095685a "HTTP/1.1 404 Not Found"
+2025-04-22 01:11:19,357 - fund_management - INFO - Request 04007929-73d7-4491-a0bc-4ddb0b3a534b started: POST /api/funds/ from testclient
+2025-04-22 01:11:19,359 - fund_management - INFO - Request to create new fund: Test Fund
+2025-04-22 01:11:19,359 - fund_management - WARNING - Validation error when creating fund: Test Fund
+2025-04-22 01:11:19,359 - fund_management - WARNING - Validation error: Test validation error
+2025-04-22 01:11:19,359 - fund_management - INFO - Request 04007929-73d7-4491-a0bc-4ddb0b3a534b completed: Status 400 (0.0020s)
+2025-04-22 01:11:19,361 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 400 Bad Request"
+2025-04-22 01:11:19,368 - fund_management - INFO - Request aaf58176-8d9c-4e88-a6b4-92a109016afd started: POST /api/funds/ from testclient
+2025-04-22 01:11:19,372 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 01:11:19,372 - fund_management - INFO - Request aaf58176-8d9c-4e88-a6b4-92a109016afd completed: Status 422 (0.0040s)
+2025-04-22 01:11:19,374 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 01:12:01,990 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,122 - fund_management - INFO - Request 11abd95a-6d0c-4523-9a83-5b62938dbb0b started: GET / from testclient
+2025-04-22 01:12:02,122 - fund_management - INFO - Root endpoint accessed
+2025-04-22 01:12:02,124 - fund_management - INFO - Request 11abd95a-6d0c-4523-9a83-5b62938dbb0b completed: Status 200 (0.0019s)
+2025-04-22 01:12:02,127 - httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2025-04-22 01:12:02,134 - fund_management - INFO - Request a4a161dd-2b9f-4d10-966d-98b6e1ad3461 started: GET /api/funds/ from testclient
+2025-04-22 01:12:02,134 - fund_management - INFO - Request to get all funds
+2025-04-22 01:12:02,134 - fund_management - INFO - Retrieved 0 funds
+2025-04-22 01:12:02,134 - fund_management - INFO - Request a4a161dd-2b9f-4d10-966d-98b6e1ad3461 completed: Status 200 (0.0000s)
+2025-04-22 01:12:02,139 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 01:12:02,144 - fund_management - INFO - Request cc86ae95-075c-4cf8-92e1-38eb2b126526 started: GET /api/funds/ from testclient
+2025-04-22 01:12:02,144 - fund_management - INFO - Request to get all funds
+2025-04-22 01:12:02,144 - fund_management - INFO - Retrieved 3 funds
+2025-04-22 01:12:02,149 - fund_management - INFO - Request cc86ae95-075c-4cf8-92e1-38eb2b126526 completed: Status 200 (0.0042s)
+2025-04-22 01:12:02,151 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 01:12:02,159 - fund_management - INFO - Request 05c47f7b-0846-4c4b-aa1f-a9500a8a104f started: POST /api/funds/ from testclient
+2025-04-22 01:12:02,163 - fund_management - INFO - Request to create new fund: API Test Fund
+2025-04-22 01:12:02,163 - fund_management - INFO - Fund created successfully: 67987175-7492-471f-9393-13930f594c3d
+2025-04-22 01:12:02,163 - fund_management - INFO - Request 05c47f7b-0846-4c4b-aa1f-a9500a8a104f completed: Status 201 (0.0037s)
+2025-04-22 01:12:02,167 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 201 Created"
+2025-04-22 01:12:02,176 - fund_management - INFO - Request ac40bb65-9e44-489e-8502-4c039c1336ab started: POST /api/funds/ from testclient
+2025-04-22 01:12:02,177 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 01:12:02,177 - fund_management - INFO - Request ac40bb65-9e44-489e-8502-4c039c1336ab completed: Status 422 (0.0010s)
+2025-04-22 01:12:02,185 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 01:12:02,191 - fund_management - INFO - Request 041c0686-7820-48f9-8cc5-0bd059ddca2c started: GET /api/funds/510b17de-6384-4b9f-87a7-a9b44e43d6e0 from testclient
+2025-04-22 01:12:02,191 - fund_management - INFO - Request to get fund by ID: 510b17de-6384-4b9f-87a7-a9b44e43d6e0
+2025-04-22 01:12:02,191 - fund_management - INFO - Retrieved fund: Test Growth Fund
+2025-04-22 01:12:02,191 - fund_management - INFO - Request 041c0686-7820-48f9-8cc5-0bd059ddca2c completed: Status 200 (0.0000s)
+2025-04-22 01:12:02,198 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/510b17de-6384-4b9f-87a7-a9b44e43d6e0 "HTTP/1.1 200 OK"
+2025-04-22 01:12:02,201 - fund_management - INFO - Request 806bcd8b-335e-4fce-b098-05a19c7df661 started: GET /api/funds/bb186a55-eeac-4826-b288-63a8418f59de from testclient
+2025-04-22 01:12:02,201 - fund_management - INFO - Request to get fund by ID: bb186a55-eeac-4826-b288-63a8418f59de
+2025-04-22 01:12:02,201 - fund_management - WARNING - Fund not found: bb186a55-eeac-4826-b288-63a8418f59de
+2025-04-22 01:12:02,201 - fund_management - WARNING - Fund not found: bb186a55-eeac-4826-b288-63a8418f59de
+2025-04-22 01:12:02,208 - fund_management - INFO - Request 806bcd8b-335e-4fce-b098-05a19c7df661 completed: Status 404 (0.0063s)
+2025-04-22 01:12:02,209 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/bb186a55-eeac-4826-b288-63a8418f59de "HTTP/1.1 404 Not Found"
+2025-04-22 01:12:02,214 - fund_management - INFO - Request a7df2d6f-5dc3-4254-a4b6-8dd39542140d started: PATCH /api/funds/eab7c63f-11e1-4801-8118-461a610cdd4b/performance from testclient
+2025-04-22 01:12:02,217 - fund_management - INFO - Request to update performance for fund eab7c63f-11e1-4801-8118-461a610cdd4b: 20.0
+2025-04-22 01:12:02,217 - fund_management - INFO - Updated performance for fund eab7c63f-11e1-4801-8118-461a610cdd4b to 20.0
+2025-04-22 01:12:02,217 - fund_management - INFO - Request a7df2d6f-5dc3-4254-a4b6-8dd39542140d completed: Status 200 (0.0033s)
+2025-04-22 01:12:02,223 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/eab7c63f-11e1-4801-8118-461a610cdd4b/performance "HTTP/1.1 200 OK"
+2025-04-22 01:12:02,231 - fund_management - INFO - Request bccf2026-1159-4ff4-ab5a-4078ffe5cfa0 started: PATCH /api/funds/3794d7e7-01d6-4ad9-ab6f-d753e163073c/performance from testclient
+2025-04-22 01:12:02,235 - fund_management - INFO - Request to update performance for fund 3794d7e7-01d6-4ad9-ab6f-d753e163073c: 15.0
+2025-04-22 01:12:02,235 - fund_management - WARNING - Fund not found when updating performance: 3794d7e7-01d6-4ad9-ab6f-d753e163073c
+2025-04-22 01:12:02,235 - fund_management - WARNING - Fund not found: 3794d7e7-01d6-4ad9-ab6f-d753e163073c
+2025-04-22 01:12:02,237 - fund_management - INFO - Request bccf2026-1159-4ff4-ab5a-4078ffe5cfa0 completed: Status 404 (0.0059s)
+2025-04-22 01:12:02,237 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/3794d7e7-01d6-4ad9-ab6f-d753e163073c/performance "HTTP/1.1 404 Not Found"
+2025-04-22 01:12:02,249 - fund_management - INFO - Request 0da7c2f0-cef2-4a3e-a6c3-43009f0ad8b0 started: DELETE /api/funds/4ece1a12-ceed-4223-a102-b661fbe52fc6 from testclient
+2025-04-22 01:12:02,250 - fund_management - INFO - Request to delete fund: 4ece1a12-ceed-4223-a102-b661fbe52fc6
+2025-04-22 01:12:02,250 - fund_management - INFO - Fund deleted successfully: 4ece1a12-ceed-4223-a102-b661fbe52fc6
+2025-04-22 01:12:02,252 - fund_management - INFO - Request 0da7c2f0-cef2-4a3e-a6c3-43009f0ad8b0 completed: Status 204 (0.0035s)
+2025-04-22 01:12:02,252 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/4ece1a12-ceed-4223-a102-b661fbe52fc6 "HTTP/1.1 204 No Content"
+2025-04-22 01:12:02,262 - fund_management - INFO - Request 1f3ed5eb-a344-4e1c-a83f-9742accc9022 started: DELETE /api/funds/43b442c9-a729-48f1-871f-caec74f4bd64 from testclient
+2025-04-22 01:12:02,264 - fund_management - INFO - Request to delete fund: 43b442c9-a729-48f1-871f-caec74f4bd64
+2025-04-22 01:12:02,264 - fund_management - WARNING - Fund not found when attempting to delete: 43b442c9-a729-48f1-871f-caec74f4bd64
+2025-04-22 01:12:02,264 - fund_management - WARNING - Fund not found: 43b442c9-a729-48f1-871f-caec74f4bd64
+2025-04-22 01:12:02,266 - fund_management - INFO - Request 1f3ed5eb-a344-4e1c-a83f-9742accc9022 completed: Status 404 (0.0038s)
+2025-04-22 01:12:02,267 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/43b442c9-a729-48f1-871f-caec74f4bd64 "HTTP/1.1 404 Not Found"
+2025-04-22 01:12:02,271 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,271 - fund_management - INFO - Created fund: Test Growth Fund (ID: 855d2511-4809-4863-bc20-d23a56cd63f1)
+2025-04-22 01:12:02,275 - fund_management - INFO - Created fund: Test Income Fund (ID: 00f65f65-7607-45e8-97b4-c040804c532e)
+2025-04-22 01:12:02,275 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 6745cf82-b08b-4828-897a-5aa3945355f6)
+2025-04-22 01:12:02,276 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,276 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,276 - fund_management - INFO - Created fund: Test Growth Fund (ID: f67f6bac-d260-4e6a-a76e-e3ce5215d4fe)
+2025-04-22 01:12:02,276 - fund_management - INFO - Created fund: Test Income Fund (ID: 50d9d3e7-e118-41ee-a50e-2c028a50c680)
+2025-04-22 01:12:02,276 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 4ad360e5-0bd4-4dbf-94e7-7d20a7b9c408)
+2025-04-22 01:12:02,276 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,285 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,285 - fund_management - INFO - Created fund: Test Growth Fund (ID: d6b0481b-19af-4758-a3c7-f7dc273ff359)
+2025-04-22 01:12:02,285 - fund_management - INFO - Created fund: Test Income Fund (ID: bb07dc32-4413-4233-b3e7-73a256227485)
+2025-04-22 01:12:02,285 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 8116ed8d-7732-4c39-a6f4-89dbeb8e842d)
+2025-04-22 01:12:02,285 - fund_management - WARNING - Fund not found: 4035810e-c434-40fa-b78d-955dd3526125
+2025-04-22 01:12:02,290 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,292 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,292 - fund_management - INFO - Created fund: New Test Fund (ID: fa7a655e-adf9-42fb-9bd9-0effcfe5383f)
+2025-04-22 01:12:02,292 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,297 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,297 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,301 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,303 - fund_management - INFO - Created fund: Test Growth Fund (ID: e92606ce-facf-47eb-be7a-788e9a3c185d)
+2025-04-22 01:12:02,303 - fund_management - INFO - Created fund: Test Income Fund (ID: 8bd466ec-5a78-4d94-b645-9a003a49a77a)
+2025-04-22 01:12:02,303 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 70b50003-0b78-445d-a51f-df09e0df9e7a)
+2025-04-22 01:12:02,304 - fund_management - INFO - Updated performance for fund ID e92606ce-facf-47eb-be7a-788e9a3c185d to 15.0
+2025-04-22 01:12:02,307 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,310 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,311 - fund_management - INFO - Created fund: Test Growth Fund (ID: b5f9a947-2b28-46b7-b170-779806e53618)
+2025-04-22 01:12:02,311 - fund_management - INFO - Created fund: Test Income Fund (ID: 8f1579ea-a567-49bc-963f-7bd9120c7266)
+2025-04-22 01:12:02,311 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 4f789305-0e9a-4d49-8054-17dea1d89499)
+2025-04-22 01:12:02,313 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,313 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,313 - fund_management - INFO - Created fund: Test Growth Fund (ID: e22a5963-a377-4cc2-ba4d-e865c047ad64)
+2025-04-22 01:12:02,313 - fund_management - INFO - Created fund: Test Income Fund (ID: 647cdedc-9af3-443a-b7a2-5f2b9fb02cd5)
+2025-04-22 01:12:02,313 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 329451e5-7f23-4f6d-954c-8b552bb67291)
+2025-04-22 01:12:02,318 - fund_management - INFO - Deleted fund ID e22a5963-a377-4cc2-ba4d-e865c047ad64
+2025-04-22 01:12:02,318 - fund_management - WARNING - Fund not found: e22a5963-a377-4cc2-ba4d-e865c047ad64
+2025-04-22 01:12:02,318 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,322 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:12:02,322 - fund_management - INFO - Created fund: Test Growth Fund (ID: 68e9152d-7731-4bdf-8c5a-352d13d40852)
+2025-04-22 01:12:02,324 - fund_management - INFO - Created fund: Test Income Fund (ID: 33b52985-18f8-4b91-bdb3-95bf61ac3363)
+2025-04-22 01:12:02,324 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 642b4aaf-6908-41c3-988b-f6bfc5b9228f)
+2025-04-22 01:12:02,324 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:12:02,332 - fund_management - INFO - Request a8bb46bc-9824-4943-90c8-987ad842bd03 started: GET /api/funds/ from testclient
+2025-04-22 01:12:02,332 - fund_management - INFO - Request to get all funds
+2025-04-22 01:12:02,332 - fund_management - ERROR - Database error: Test database error
+Traceback (most recent call last):
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\app\api\routes.py", line 36, in get_all_funds
+    funds = db.get_all_funds()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\tests\test_error_handling.py", line 11, in mock_get_all_funds
+    raise DatabaseError("Test database error", {"detail": "Connection failed"})
+app.utils.error_handlers.DatabaseError: Test database error
+2025-04-22 01:12:02,340 - fund_management - INFO - Request a8bb46bc-9824-4943-90c8-987ad842bd03 completed: Status 500 (0.0078s)
+2025-04-22 01:12:02,343 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 500 Internal Server Error"
+2025-04-22 01:12:02,351 - fund_management - INFO - Request 058543c6-8c25-47ef-b3e6-41330378331f started: GET /api/funds/dc89df0c-6ec1-4b20-b6e0-2d03783269bb from testclient
+2025-04-22 01:12:02,355 - fund_management - INFO - Request to get fund by ID: dc89df0c-6ec1-4b20-b6e0-2d03783269bb
+2025-04-22 01:12:02,355 - fund_management - WARNING - Fund not found: dc89df0c-6ec1-4b20-b6e0-2d03783269bb
+2025-04-22 01:12:02,355 - fund_management - WARNING - Fund not found: dc89df0c-6ec1-4b20-b6e0-2d03783269bb
+2025-04-22 01:12:02,355 - fund_management - INFO - Request 058543c6-8c25-47ef-b3e6-41330378331f completed: Status 404 (0.0040s)
+2025-04-22 01:12:02,355 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/dc89df0c-6ec1-4b20-b6e0-2d03783269bb "HTTP/1.1 404 Not Found"
+2025-04-22 01:12:02,365 - fund_management - INFO - Request 7ee0d494-e7bb-4c30-8d85-988443f7aa86 started: POST /api/funds/ from testclient
+2025-04-22 01:12:02,368 - fund_management - INFO - Request to create new fund: Test Fund
+2025-04-22 01:12:02,368 - fund_management - WARNING - Validation error when creating fund: Test Fund
+2025-04-22 01:12:02,369 - fund_management - WARNING - Validation error: Test validation error
+2025-04-22 01:12:02,369 - fund_management - INFO - Request 7ee0d494-e7bb-4c30-8d85-988443f7aa86 completed: Status 400 (0.0037s)
+2025-04-22 01:12:02,369 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 400 Bad Request"
+2025-04-22 01:12:02,377 - fund_management - INFO - Request cb5d05ce-6e57-496d-be28-bcc6027f8d23 started: POST /api/funds/ from testclient
+2025-04-22 01:12:02,380 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 01:12:02,382 - fund_management - INFO - Request cb5d05ce-6e57-496d-be28-bcc6027f8d23 completed: Status 422 (0.0048s)
+2025-04-22 01:12:02,382 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 01:12:29,219 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,617 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,732 - fund_management - INFO - Request 3b65fde5-08b4-4b3e-98cd-79f46ff5798e started: GET / from testclient
+2025-04-22 01:13:26,734 - fund_management - INFO - Root endpoint accessed
+2025-04-22 01:13:26,734 - fund_management - INFO - Request 3b65fde5-08b4-4b3e-98cd-79f46ff5798e completed: Status 200 (0.0016s)
+2025-04-22 01:13:26,734 - httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2025-04-22 01:13:26,743 - fund_management - INFO - Request 0c73acb3-2589-40ee-8c43-fb9594656545 started: GET /api/funds/ from testclient
+2025-04-22 01:13:26,746 - fund_management - INFO - Request to get all funds
+2025-04-22 01:13:26,746 - fund_management - INFO - Retrieved 0 funds
+2025-04-22 01:13:26,746 - fund_management - INFO - Request 0c73acb3-2589-40ee-8c43-fb9594656545 completed: Status 200 (0.0030s)
+2025-04-22 01:13:26,749 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 01:13:26,760 - fund_management - INFO - Request ab3b8356-d776-42aa-ba30-b9acf28b1397 started: GET /api/funds/ from testclient
+2025-04-22 01:13:26,760 - fund_management - INFO - Request to get all funds
+2025-04-22 01:13:26,760 - fund_management - INFO - Retrieved 3 funds
+2025-04-22 01:13:26,760 - fund_management - INFO - Request ab3b8356-d776-42aa-ba30-b9acf28b1397 completed: Status 200 (0.0000s)
+2025-04-22 01:13:26,760 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 01:13:26,771 - fund_management - INFO - Request 0d8a9a8e-e86f-4285-b496-baacf44d5cbb started: POST /api/funds/ from testclient
+2025-04-22 01:13:26,776 - fund_management - INFO - Request to create new fund: API Test Fund
+2025-04-22 01:13:26,776 - fund_management - INFO - Fund created successfully: 43d53a70-5616-4fa0-a185-4a876bf14d6a
+2025-04-22 01:13:26,776 - fund_management - INFO - Request 0d8a9a8e-e86f-4285-b496-baacf44d5cbb completed: Status 201 (0.0045s)
+2025-04-22 01:13:26,776 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 201 Created"
+2025-04-22 01:13:26,785 - fund_management - INFO - Request 75fe0e07-3bcd-42b2-b58c-fdc58d0ce67f started: POST /api/funds/ from testclient
+2025-04-22 01:13:26,791 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 01:13:26,792 - fund_management - INFO - Request 75fe0e07-3bcd-42b2-b58c-fdc58d0ce67f completed: Status 422 (0.0072s)
+2025-04-22 01:13:26,795 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 01:13:26,805 - fund_management - INFO - Request a61cd6e9-5fd3-4222-814f-aa0e5088a9ec started: GET /api/funds/f8908171-f48a-4b5d-bc0f-2cc166a3fbc6 from testclient
+2025-04-22 01:13:26,806 - fund_management - INFO - Request to get fund by ID: f8908171-f48a-4b5d-bc0f-2cc166a3fbc6
+2025-04-22 01:13:26,808 - fund_management - INFO - Retrieved fund: Test Growth Fund
+2025-04-22 01:13:26,809 - fund_management - INFO - Request a61cd6e9-5fd3-4222-814f-aa0e5088a9ec completed: Status 200 (0.0038s)
+2025-04-22 01:13:26,810 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/f8908171-f48a-4b5d-bc0f-2cc166a3fbc6 "HTTP/1.1 200 OK"
+2025-04-22 01:13:26,818 - fund_management - INFO - Request 76725cb8-7a1a-4f77-835a-24765fe3cbea started: GET /api/funds/55d5bbc2-7120-4ce7-9e34-40f62ddebbec from testclient
+2025-04-22 01:13:26,818 - fund_management - INFO - Request to get fund by ID: 55d5bbc2-7120-4ce7-9e34-40f62ddebbec
+2025-04-22 01:13:26,818 - fund_management - WARNING - Fund not found: 55d5bbc2-7120-4ce7-9e34-40f62ddebbec
+2025-04-22 01:13:26,818 - fund_management - WARNING - Fund not found: 55d5bbc2-7120-4ce7-9e34-40f62ddebbec
+2025-04-22 01:13:26,818 - fund_management - INFO - Request 76725cb8-7a1a-4f77-835a-24765fe3cbea completed: Status 404 (0.0000s)
+2025-04-22 01:13:26,823 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/55d5bbc2-7120-4ce7-9e34-40f62ddebbec "HTTP/1.1 404 Not Found"
+2025-04-22 01:13:26,824 - fund_management - INFO - Request 1a6ad9f5-0003-4579-9335-2c4207fcd75a started: PATCH /api/funds/7e603530-ab04-47b0-92c7-d2e94bcccec7/performance from testclient
+2025-04-22 01:13:26,832 - fund_management - INFO - Request to update performance for fund 7e603530-ab04-47b0-92c7-d2e94bcccec7: 20.0
+2025-04-22 01:13:26,833 - fund_management - INFO - Updated performance for fund 7e603530-ab04-47b0-92c7-d2e94bcccec7 to 20.0
+2025-04-22 01:13:26,833 - fund_management - INFO - Request 1a6ad9f5-0003-4579-9335-2c4207fcd75a completed: Status 200 (0.0088s)
+2025-04-22 01:13:26,833 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/7e603530-ab04-47b0-92c7-d2e94bcccec7/performance "HTTP/1.1 200 OK"
+2025-04-22 01:13:26,843 - fund_management - INFO - Request bdb94171-07d0-4db2-90be-19ea4f471db8 started: PATCH /api/funds/d29f069f-e3cd-4e68-b333-ca61218cbec6/performance from testclient
+2025-04-22 01:13:26,844 - fund_management - INFO - Request to update performance for fund d29f069f-e3cd-4e68-b333-ca61218cbec6: 15.0
+2025-04-22 01:13:26,844 - fund_management - WARNING - Fund not found when updating performance: d29f069f-e3cd-4e68-b333-ca61218cbec6
+2025-04-22 01:13:26,844 - fund_management - WARNING - Fund not found: d29f069f-e3cd-4e68-b333-ca61218cbec6
+2025-04-22 01:13:26,844 - fund_management - INFO - Request bdb94171-07d0-4db2-90be-19ea4f471db8 completed: Status 404 (0.0011s)
+2025-04-22 01:13:26,849 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/d29f069f-e3cd-4e68-b333-ca61218cbec6/performance "HTTP/1.1 404 Not Found"
+2025-04-22 01:13:26,856 - fund_management - INFO - Request 2b6fa654-10f7-494f-aac1-20a67ca46f02 started: DELETE /api/funds/8f1dd1d9-d1b4-4c89-86df-49071e3c79fc from testclient
+2025-04-22 01:13:26,856 - fund_management - INFO - Request to delete fund: 8f1dd1d9-d1b4-4c89-86df-49071e3c79fc
+2025-04-22 01:13:26,859 - fund_management - INFO - Fund deleted successfully: 8f1dd1d9-d1b4-4c89-86df-49071e3c79fc
+2025-04-22 01:13:26,859 - fund_management - INFO - Request 2b6fa654-10f7-494f-aac1-20a67ca46f02 completed: Status 204 (0.0022s)
+2025-04-22 01:13:26,860 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/8f1dd1d9-d1b4-4c89-86df-49071e3c79fc "HTTP/1.1 204 No Content"
+2025-04-22 01:13:26,868 - fund_management - INFO - Request 750cff47-cbe2-4441-ae60-104e4be471b1 started: DELETE /api/funds/51082eb7-336a-42a2-a8ee-0dbe941bc2b8 from testclient
+2025-04-22 01:13:26,868 - fund_management - INFO - Request to delete fund: 51082eb7-336a-42a2-a8ee-0dbe941bc2b8
+2025-04-22 01:13:26,868 - fund_management - WARNING - Fund not found when attempting to delete: 51082eb7-336a-42a2-a8ee-0dbe941bc2b8
+2025-04-22 01:13:26,868 - fund_management - WARNING - Fund not found: 51082eb7-336a-42a2-a8ee-0dbe941bc2b8
+2025-04-22 01:13:26,868 - fund_management - INFO - Request 750cff47-cbe2-4441-ae60-104e4be471b1 completed: Status 404 (0.0000s)
+2025-04-22 01:13:26,873 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/51082eb7-336a-42a2-a8ee-0dbe941bc2b8 "HTTP/1.1 404 Not Found"
+2025-04-22 01:13:26,878 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,878 - fund_management - INFO - Created fund: Test Growth Fund (ID: aeab0643-71c3-4fa1-abb9-065bbbc4d9d5)
+2025-04-22 01:13:26,878 - fund_management - INFO - Created fund: Test Income Fund (ID: 0221f463-a756-495d-91b4-216cf8d4055c)
+2025-04-22 01:13:26,878 - fund_management - INFO - Created fund: Test Balanced Fund (ID: b274158d-da3c-4481-92ce-bb8ac285e748)
+2025-04-22 01:13:26,880 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,882 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,882 - fund_management - INFO - Created fund: Test Growth Fund (ID: d40f19cb-24cb-4334-b563-5d62192a0645)
+2025-04-22 01:13:26,882 - fund_management - INFO - Created fund: Test Income Fund (ID: 8166005f-52de-4272-b28e-9adf4171d0ab)
+2025-04-22 01:13:26,885 - fund_management - INFO - Created fund: Test Balanced Fund (ID: eb4f3c3c-9c35-44bf-87f8-d95112b13eaf)
+2025-04-22 01:13:26,887 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,888 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,890 - fund_management - INFO - Created fund: Test Growth Fund (ID: fcfb535e-b299-4d57-8e07-b9b17ddcdfc2)
+2025-04-22 01:13:26,891 - fund_management - INFO - Created fund: Test Income Fund (ID: af2953f9-0549-4193-8031-11f4aa08cd53)
+2025-04-22 01:13:26,892 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 90f91e7a-cb8f-4ed8-8205-5b3a40ccdd43)
+2025-04-22 01:13:26,892 - fund_management - WARNING - Fund not found: 94ffc072-bb9e-4693-bc53-fefdd22fb41a
+2025-04-22 01:13:26,892 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,896 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,898 - fund_management - INFO - Created fund: New Test Fund (ID: a13fba13-9eeb-4608-93de-24b824cedcf6)
+2025-04-22 01:13:26,899 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,902 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,904 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,913 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,913 - fund_management - INFO - Created fund: Test Growth Fund (ID: 050acd52-4c0b-4ab3-9618-b90440308425)
+2025-04-22 01:13:26,913 - fund_management - INFO - Created fund: Test Income Fund (ID: f1f925ca-d2be-4350-91a9-1678a2ec0702)
+2025-04-22 01:13:26,915 - fund_management - INFO - Created fund: Test Balanced Fund (ID: d06c6408-4da7-44df-bcc6-ed6f4710c041)
+2025-04-22 01:13:26,915 - fund_management - INFO - Updated performance for fund ID 050acd52-4c0b-4ab3-9618-b90440308425 to 15.0
+2025-04-22 01:13:26,918 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,918 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,918 - fund_management - INFO - Created fund: Test Growth Fund (ID: 64e02044-ebe3-4c49-9d9b-59d95e6bf632)
+2025-04-22 01:13:26,923 - fund_management - INFO - Created fund: Test Income Fund (ID: 66071139-3fc7-4809-a7bf-2fa2a26bafeb)
+2025-04-22 01:13:26,923 - fund_management - INFO - Created fund: Test Balanced Fund (ID: c7f596e5-7f92-4685-803e-3f9266f78553)
+2025-04-22 01:13:26,925 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,928 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,930 - fund_management - INFO - Created fund: Test Growth Fund (ID: 6c96afea-559c-4243-a354-77da21e67344)
+2025-04-22 01:13:26,930 - fund_management - INFO - Created fund: Test Income Fund (ID: 90284872-18bb-49a3-89c8-c9370a285c1d)
+2025-04-22 01:13:26,930 - fund_management - INFO - Created fund: Test Balanced Fund (ID: ca767eca-8487-4b6f-b11b-c834669aab52)
+2025-04-22 01:13:26,930 - fund_management - INFO - Deleted fund ID 6c96afea-559c-4243-a354-77da21e67344
+2025-04-22 01:13:26,931 - fund_management - WARNING - Fund not found: 6c96afea-559c-4243-a354-77da21e67344
+2025-04-22 01:13:26,932 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,934 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:13:26,934 - fund_management - INFO - Created fund: Test Growth Fund (ID: 91b29cc6-7d55-4cff-a815-aa7a12ad2e7e)
+2025-04-22 01:13:26,934 - fund_management - INFO - Created fund: Test Income Fund (ID: 9ca4e7c5-14ef-4184-ab48-5664009387fc)
+2025-04-22 01:13:26,934 - fund_management - INFO - Created fund: Test Balanced Fund (ID: e0c4104c-05d7-4251-b903-506da2744f6a)
+2025-04-22 01:13:26,939 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 01:13:26,944 - fund_management - INFO - Request 96db58b8-4b87-42a0-9869-7fa14c029f84 started: GET /api/funds/ from testclient
+2025-04-22 01:13:26,950 - fund_management - INFO - Request to get all funds
+2025-04-22 01:13:26,950 - fund_management - ERROR - Database error: Test database error
+Traceback (most recent call last):
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\app\api\routes.py", line 36, in get_all_funds
+    funds = db.get_all_funds()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\tests\test_error_handling.py", line 11, in mock_get_all_funds
+    raise DatabaseError("Test database error", {"detail": "Connection failed"})
+app.utils.error_handlers.DatabaseError: Test database error
+2025-04-22 01:13:26,952 - fund_management - INFO - Request 96db58b8-4b87-42a0-9869-7fa14c029f84 completed: Status 500 (0.0079s)
+2025-04-22 01:13:26,955 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 500 Internal Server Error"
+2025-04-22 01:13:26,962 - fund_management - INFO - Request d6d52232-b8b4-4990-acef-4d923d8d6c1b started: GET /api/funds/b43e1ce8-a086-473a-a4a7-9b25bdd1b9e5 from testclient
+2025-04-22 01:13:26,965 - fund_management - INFO - Request to get fund by ID: b43e1ce8-a086-473a-a4a7-9b25bdd1b9e5
+2025-04-22 01:13:26,965 - fund_management - WARNING - Fund not found: b43e1ce8-a086-473a-a4a7-9b25bdd1b9e5
+2025-04-22 01:13:26,967 - fund_management - WARNING - Fund not found: b43e1ce8-a086-473a-a4a7-9b25bdd1b9e5
+2025-04-22 01:13:26,967 - fund_management - INFO - Request d6d52232-b8b4-4990-acef-4d923d8d6c1b completed: Status 404 (0.0049s)
+2025-04-22 01:13:26,968 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/b43e1ce8-a086-473a-a4a7-9b25bdd1b9e5 "HTTP/1.1 404 Not Found"
+2025-04-22 01:13:26,978 - fund_management - INFO - Request e0b025a4-a525-4fc4-9e9a-031a1044fca2 started: POST /api/funds/ from testclient
+2025-04-22 01:13:26,980 - fund_management - INFO - Request to create new fund: Test Fund
+2025-04-22 01:13:26,980 - fund_management - WARNING - Validation error when creating fund: Test Fund
+2025-04-22 01:13:26,980 - fund_management - WARNING - Validation error: Test validation error
+2025-04-22 01:13:26,980 - fund_management - INFO - Request e0b025a4-a525-4fc4-9e9a-031a1044fca2 completed: Status 400 (0.0023s)
+2025-04-22 01:13:26,983 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 400 Bad Request"
+2025-04-22 01:13:26,991 - fund_management - INFO - Request 0c9d7793-7f67-4a45-a2f2-9ae385270710 started: POST /api/funds/ from testclient
+2025-04-22 01:13:26,991 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 01:13:26,991 - fund_management - INFO - Request 0c9d7793-7f67-4a45-a2f2-9ae385270710 completed: Status 422 (0.0000s)
+2025-04-22 01:13:26,998 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 01:14:42,232 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:14:42,243 - fund_management - INFO - Starting Fund Management System API
+2025-04-22 01:14:43,188 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 01:14:55,127 - fund_management - INFO - Request 9346ed4e-264d-4614-beb3-182e27b551d1 started: GET / from 127.0.0.1
+2025-04-22 01:14:55,129 - fund_management - INFO - Root endpoint accessed
+2025-04-22 01:14:55,133 - fund_management - INFO - Request 9346ed4e-264d-4614-beb3-182e27b551d1 completed: Status 200 (0.0040s)
+2025-04-22 01:15:03,790 - fund_management - INFO - Request 1e13b25e-3def-4a1c-9ff4-c2991360e06d started: GET /docs from 127.0.0.1
+2025-04-22 01:15:03,790 - fund_management - INFO - Request 1e13b25e-3def-4a1c-9ff4-c2991360e06d completed: Status 200 (0.0000s)
+2025-04-22 01:15:04,164 - fund_management - INFO - Request dce2268f-c3fd-46c1-abea-53d25ad3fb6d started: GET /openapi.json from 127.0.0.1
+2025-04-22 01:15:04,179 - fund_management - INFO - Request dce2268f-c3fd-46c1-abea-53d25ad3fb6d completed: Status 200 (0.0148s)
+2025-04-22 01:15:10,346 - fund_management - INFO - Request 7a88fceb-f698-4249-99e0-4d5ac7c47e2d started: GET /api/funds/ from 127.0.0.1
+2025-04-22 01:15:10,348 - fund_management - INFO - Request to get all funds
+2025-04-22 01:15:10,352 - fund_management - INFO - Retrieved 3 funds
+2025-04-22 01:15:10,352 - fund_management - INFO - Request 7a88fceb-f698-4249-99e0-4d5ac7c47e2d completed: Status 200 (0.0061s)
+2025-04-22 01:15:42,103 - fund_management - INFO - Request bc39b5f2-afe5-4f66-b2f5-8b6a602e729d started: GET /health from 127.0.0.1
+2025-04-22 01:15:42,105 - fund_management - INFO - Health check endpoint accessed
+2025-04-22 01:15:42,105 - fund_management - INFO - Request bc39b5f2-afe5-4f66-b2f5-8b6a602e729d completed: Status 200 (0.0028s)
+2025-04-22 01:21:29,370 - fund_management - INFO - Request f24f3576-99dd-430c-93ee-3c8d89665079 started: POST /api/funds/ from 127.0.0.1
+2025-04-22 01:21:29,376 - fund_management - INFO - Request to create new fund: Money Market Fund
+2025-04-22 01:21:29,385 - fund_management - INFO - Created fund: Money Market Fund (ID: ca865cdf-2aa9-412a-b4c6-abb353ae8932)
+2025-04-22 01:21:29,388 - fund_management - INFO - Fund created successfully: ca865cdf-2aa9-412a-b4c6-abb353ae8932
+2025-04-22 01:21:29,388 - fund_management - INFO - Request f24f3576-99dd-430c-93ee-3c8d89665079 completed: Status 201 (0.0173s)
+2025-04-22 01:21:41,685 - fund_management - INFO - Request ee0397f2-8367-4508-8222-2c84b256934c started: GET /api/funds/ from 127.0.0.1
+2025-04-22 01:21:41,687 - fund_management - INFO - Request to get all funds
+2025-04-22 01:21:41,688 - fund_management - INFO - Retrieved 4 funds
+2025-04-22 01:21:41,689 - fund_management - INFO - Request ee0397f2-8367-4508-8222-2c84b256934c completed: Status 200 (0.0049s)
+2025-04-22 01:22:23,362 - fund_management - INFO - Request 3b320bd0-94b1-4c5f-bbbe-1a4695bdbb3b started: GET /api/funds/ca865cdf-2aa9-412a-b4c6-abb353ae8932 from 127.0.0.1
+2025-04-22 01:22:23,365 - fund_management - INFO - Request to get fund by ID: ca865cdf-2aa9-412a-b4c6-abb353ae8932
+2025-04-22 01:22:23,366 - fund_management - INFO - Retrieved fund: Money Market Fund
+2025-04-22 01:22:23,366 - fund_management - INFO - Request 3b320bd0-94b1-4c5f-bbbe-1a4695bdbb3b completed: Status 200 (0.0034s)
+2025-04-22 01:23:14,299 - fund_management - INFO - Request a33b5bf9-4dcf-4999-82dc-b792d1e569be started: PATCH /api/funds/ca865cdf-2aa9-412a-b4c6-abb353ae8932/performance from 127.0.0.1
+2025-04-22 01:23:14,304 - fund_management - INFO - Request to update performance for fund ca865cdf-2aa9-412a-b4c6-abb353ae8932: 0.9
+2025-04-22 01:23:14,314 - fund_management - INFO - Updated performance for fund ID ca865cdf-2aa9-412a-b4c6-abb353ae8932 to 0.9
+2025-04-22 01:23:14,317 - fund_management - INFO - Updated performance for fund ca865cdf-2aa9-412a-b4c6-abb353ae8932 to 0.9
+2025-04-22 01:23:14,317 - fund_management - INFO - Request a33b5bf9-4dcf-4999-82dc-b792d1e569be completed: Status 200 (0.0179s)
+2025-04-22 01:23:56,533 - fund_management - INFO - Request cc16d36d-5508-41cd-99b3-528f958c8c9d started: GET /api/funds/ca865cdf-2aa9-412a-b4c6-abb353ae8932 from 127.0.0.1
+2025-04-22 01:23:56,537 - fund_management - INFO - Request to get fund by ID: ca865cdf-2aa9-412a-b4c6-abb353ae8932
+2025-04-22 01:23:56,538 - fund_management - INFO - Retrieved fund: Money Market Fund
+2025-04-22 01:23:56,540 - fund_management - INFO - Request cc16d36d-5508-41cd-99b3-528f958c8c9d completed: Status 200 (0.0052s)
+2025-04-22 01:24:10,475 - fund_management - INFO - Request 37ef7ee7-abdc-44e5-9ee7-41b32ec2450b started: GET /api/funds/ from 127.0.0.1
+2025-04-22 01:24:10,478 - fund_management - INFO - Request to get all funds
+2025-04-22 01:24:10,479 - fund_management - INFO - Retrieved 4 funds
+2025-04-22 01:24:10,506 - fund_management - INFO - Request 37ef7ee7-abdc-44e5-9ee7-41b32ec2450b completed: Status 200 (0.0316s)
+2025-04-22 11:15:20,831 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:15:20,844 - fund_management - INFO - Starting Fund Management System API
+2025-04-22 11:15:21,703 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:15:47,424 - fund_management - INFO - Request 2ebc84e4-d40b-4436-aa9e-441ea48d5f8b started: GET / from 127.0.0.1
+2025-04-22 11:15:47,424 - fund_management - INFO - Root endpoint accessed
+2025-04-22 11:15:47,424 - fund_management - INFO - Request 2ebc84e4-d40b-4436-aa9e-441ea48d5f8b completed: Status 200 (0.0000s)
+2025-04-22 11:15:48,253 - fund_management - INFO - Request dfc64a44-b288-4300-8c93-70dbab5203de started: GET /favicon.ico from 127.0.0.1
+2025-04-22 11:15:48,253 - fund_management - WARNING - HTTP exception: Not Found
+2025-04-22 11:15:48,255 - fund_management - INFO - Request dfc64a44-b288-4300-8c93-70dbab5203de completed: Status 404 (0.0011s)
+2025-04-22 11:15:54,727 - fund_management - INFO - Request dfa682c1-b84d-44c7-9843-6c5801c9aa7d started: GET /docs from 127.0.0.1
+2025-04-22 11:15:54,729 - fund_management - INFO - Request dfa682c1-b84d-44c7-9843-6c5801c9aa7d completed: Status 200 (0.0010s)
+2025-04-22 11:15:56,467 - fund_management - INFO - Request 9afc8bed-a14c-4a90-97e5-7c8e4c0357cd started: GET /openapi.json from 127.0.0.1
+2025-04-22 11:15:56,477 - fund_management - INFO - Request 9afc8bed-a14c-4a90-97e5-7c8e4c0357cd completed: Status 200 (0.0099s)
+2025-04-22 11:49:23,916 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:23,999 - fund_management - INFO - Request 596fd6db-f96d-404b-a260-837c9c2d47a0 started: GET / from testclient
+2025-04-22 11:49:23,999 - fund_management - INFO - Root endpoint accessed
+2025-04-22 11:49:24,001 - fund_management - INFO - Request 596fd6db-f96d-404b-a260-837c9c2d47a0 completed: Status 200 (0.0017s)
+2025-04-22 11:49:24,002 - httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2025-04-22 11:49:24,008 - fund_management - INFO - Request 15030dd8-73dc-4d56-b0c9-e371194b2d3a started: GET /api/funds/ from testclient
+2025-04-22 11:49:24,009 - fund_management - INFO - Request to get all funds
+2025-04-22 11:49:24,009 - fund_management - INFO - Retrieved 0 funds
+2025-04-22 11:49:24,010 - fund_management - INFO - Request 15030dd8-73dc-4d56-b0c9-e371194b2d3a completed: Status 200 (0.0026s)
+2025-04-22 11:49:24,012 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 11:49:24,015 - fund_management - INFO - Request dcf005a9-c71d-43c2-bb2f-aac95cd3975a started: GET /api/funds/ from testclient
+2025-04-22 11:49:24,015 - fund_management - INFO - Request to get all funds
+2025-04-22 11:49:24,015 - fund_management - INFO - Retrieved 3 funds
+2025-04-22 11:49:24,019 - fund_management - INFO - Request dcf005a9-c71d-43c2-bb2f-aac95cd3975a completed: Status 200 (0.0040s)
+2025-04-22 11:49:24,020 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 200 OK"
+2025-04-22 11:49:24,025 - fund_management - INFO - Request bc83090a-cb31-4165-8eaa-9fcf07d806d4 started: POST /api/funds/ from testclient
+2025-04-22 11:49:24,028 - fund_management - INFO - Request to create new fund: API Test Fund
+2025-04-22 11:49:24,028 - fund_management - INFO - Fund created successfully: 359bef45-a7b6-41cc-a63a-dd7bd01ae540
+2025-04-22 11:49:24,029 - fund_management - INFO - Request bc83090a-cb31-4165-8eaa-9fcf07d806d4 completed: Status 201 (0.0033s)
+2025-04-22 11:49:24,030 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 201 Created"
+2025-04-22 11:49:24,030 - fund_management - INFO - Request 7950c50d-45b3-406c-bf96-e140168b9ce9 started: POST /api/funds/ from testclient
+2025-04-22 11:49:24,038 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 11:49:24,038 - fund_management - INFO - Request 7950c50d-45b3-406c-bf96-e140168b9ce9 completed: Status 422 (0.0074s)
+2025-04-22 11:49:24,040 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
+2025-04-22 11:49:24,046 - fund_management - INFO - Request 44d84bb2-2d01-4f45-9ae5-79c1aeae236b started: GET /api/funds/fa04dbb0-cfb7-454b-999e-d84966771ef0 from testclient
+2025-04-22 11:49:24,047 - fund_management - INFO - Request to get fund by ID: fa04dbb0-cfb7-454b-999e-d84966771ef0
+2025-04-22 11:49:24,048 - fund_management - INFO - Retrieved fund: Test Growth Fund
+2025-04-22 11:49:24,048 - fund_management - INFO - Request 44d84bb2-2d01-4f45-9ae5-79c1aeae236b completed: Status 200 (0.0020s)
+2025-04-22 11:49:24,050 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/fa04dbb0-cfb7-454b-999e-d84966771ef0 "HTTP/1.1 200 OK"
+2025-04-22 11:49:24,056 - fund_management - INFO - Request 64a5150b-8c72-4473-9705-005bdfcb1113 started: GET /api/funds/7f52997e-9a96-448a-9f2e-f81f7e54a6a2 from testclient
+2025-04-22 11:49:24,057 - fund_management - INFO - Request to get fund by ID: 7f52997e-9a96-448a-9f2e-f81f7e54a6a2
+2025-04-22 11:49:24,057 - fund_management - WARNING - Fund not found: 7f52997e-9a96-448a-9f2e-f81f7e54a6a2
+2025-04-22 11:49:24,057 - fund_management - WARNING - Fund not found: 7f52997e-9a96-448a-9f2e-f81f7e54a6a2
+2025-04-22 11:49:24,057 - fund_management - INFO - Request 64a5150b-8c72-4473-9705-005bdfcb1113 completed: Status 404 (0.0011s)
+2025-04-22 11:49:24,060 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/7f52997e-9a96-448a-9f2e-f81f7e54a6a2 "HTTP/1.1 404 Not Found"
+2025-04-22 11:49:24,064 - fund_management - INFO - Request 1915b9fb-062a-4741-9cf7-fdf0f2b1d8eb started: PATCH /api/funds/68124b80-0363-49a2-bbc3-7edea4a5ab61/performance from testclient
+2025-04-22 11:49:24,064 - fund_management - INFO - Request to update performance for fund 68124b80-0363-49a2-bbc3-7edea4a5ab61: 20.0
+2025-04-22 11:49:24,064 - fund_management - INFO - Updated performance for fund 68124b80-0363-49a2-bbc3-7edea4a5ab61 to 20.0
+2025-04-22 11:49:24,064 - fund_management - INFO - Request 1915b9fb-062a-4741-9cf7-fdf0f2b1d8eb completed: Status 200 (0.0000s)
+2025-04-22 11:49:24,069 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/68124b80-0363-49a2-bbc3-7edea4a5ab61/performance "HTTP/1.1 200 OK"
+2025-04-22 11:49:24,075 - fund_management - INFO - Request 135ace34-9aed-4bf1-bad8-69164e887942 started: PATCH /api/funds/19464836-abac-481d-955b-9b004f784f30/performance from testclient
+2025-04-22 11:49:24,076 - fund_management - INFO - Request to update performance for fund 19464836-abac-481d-955b-9b004f784f30: 15.0
+2025-04-22 11:49:24,076 - fund_management - WARNING - Fund not found when updating performance: 19464836-abac-481d-955b-9b004f784f30
+2025-04-22 11:49:24,076 - fund_management - WARNING - Fund not found: 19464836-abac-481d-955b-9b004f784f30
+2025-04-22 11:49:24,076 - fund_management - INFO - Request 135ace34-9aed-4bf1-bad8-69164e887942 completed: Status 404 (0.0024s)
+2025-04-22 11:49:24,076 - httpx - INFO - HTTP Request: PATCH http://testserver/api/funds/19464836-abac-481d-955b-9b004f784f30/performance "HTTP/1.1 404 Not Found"
+2025-04-22 11:49:24,076 - fund_management - INFO - Request c2128fef-b417-42cd-b20e-1ea24624d63a started: DELETE /api/funds/0ad08a85-4df0-4667-9d7e-dfaa23650c08 from testclient
+2025-04-22 11:49:24,076 - fund_management - INFO - Request to delete fund: 0ad08a85-4df0-4667-9d7e-dfaa23650c08
+2025-04-22 11:49:24,076 - fund_management - INFO - Fund deleted successfully: 0ad08a85-4df0-4667-9d7e-dfaa23650c08
+2025-04-22 11:49:24,076 - fund_management - INFO - Request c2128fef-b417-42cd-b20e-1ea24624d63a completed: Status 204 (0.0000s)
+2025-04-22 11:49:24,086 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/0ad08a85-4df0-4667-9d7e-dfaa23650c08 "HTTP/1.1 204 No Content"
+2025-04-22 11:49:24,092 - fund_management - INFO - Request a76259dc-e932-4be1-9a95-ec8fe1726ca7 started: DELETE /api/funds/1bc8f517-cae2-458a-80c1-96787bf29218 from testclient
+2025-04-22 11:49:24,092 - fund_management - INFO - Request to delete fund: 1bc8f517-cae2-458a-80c1-96787bf29218
+2025-04-22 11:49:24,092 - fund_management - WARNING - Fund not found when attempting to delete: 1bc8f517-cae2-458a-80c1-96787bf29218
+2025-04-22 11:49:24,092 - fund_management - WARNING - Fund not found: 1bc8f517-cae2-458a-80c1-96787bf29218
+2025-04-22 11:49:24,092 - fund_management - INFO - Request a76259dc-e932-4be1-9a95-ec8fe1726ca7 completed: Status 404 (0.0006s)
+2025-04-22 11:49:24,094 - httpx - INFO - HTTP Request: DELETE http://testserver/api/funds/1bc8f517-cae2-458a-80c1-96787bf29218 "HTTP/1.1 404 Not Found"
+2025-04-22 11:49:24,094 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,094 - fund_management - INFO - Created fund: Test Growth Fund (ID: 477b63c9-3652-4569-9aad-39dc114c36ac)
+2025-04-22 11:49:24,094 - fund_management - INFO - Created fund: Test Income Fund (ID: 4bb2028a-bf0f-471f-8a5a-ec4cf07ee6d3)
+2025-04-22 11:49:24,094 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 13f1af20-82c8-4c22-9f29-9273ee4280bb)
+2025-04-22 11:49:24,094 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,094 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,094 - fund_management - INFO - Created fund: Test Growth Fund (ID: 5711720b-df54-44d9-be29-b935c07bbf5e)
+2025-04-22 11:49:24,094 - fund_management - INFO - Created fund: Test Income Fund (ID: f1b6dd73-b96f-4325-ae4f-1ebbc0047a78)
+2025-04-22 11:49:24,094 - fund_management - INFO - Created fund: Test Balanced Fund (ID: e7ecab10-f37e-4561-8b97-9751c88a6fd5)
+2025-04-22 11:49:24,094 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,104 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,105 - fund_management - INFO - Created fund: Test Growth Fund (ID: f9eb25bf-1883-4a33-8c33-0e6069783da2)
+2025-04-22 11:49:24,105 - fund_management - INFO - Created fund: Test Income Fund (ID: 4d683f0c-3159-49f0-b346-44f5eb0d5724)
+2025-04-22 11:49:24,105 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 110895e0-ffdd-4636-bae5-307053151741)
+2025-04-22 11:49:24,106 - fund_management - WARNING - Fund not found: c172a1af-dc42-4116-bbdc-26cb930ae608
+2025-04-22 11:49:24,106 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,109 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,110 - fund_management - INFO - Created fund: New Test Fund (ID: ca34971d-c834-41d8-b2e3-a12524d754bb)
+2025-04-22 11:49:24,111 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,112 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,115 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,116 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,118 - fund_management - INFO - Created fund: Test Growth Fund (ID: 301103c9-07af-46e1-8ddf-6567a8ce1ace)
+2025-04-22 11:49:24,118 - fund_management - INFO - Created fund: Test Income Fund (ID: 4ee4e863-6fde-487f-b085-34d58ca3c770)
+2025-04-22 11:49:24,118 - fund_management - INFO - Created fund: Test Balanced Fund (ID: bae62705-1637-4139-9ca5-84a7d4a17195)
+2025-04-22 11:49:24,118 - fund_management - INFO - Updated performance for fund ID 301103c9-07af-46e1-8ddf-6567a8ce1ace to 15.0
+2025-04-22 11:49:24,119 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,121 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,122 - fund_management - INFO - Created fund: Test Growth Fund (ID: 55a8b881-321b-4e33-a66c-3bb34cceae56)
+2025-04-22 11:49:24,122 - fund_management - INFO - Created fund: Test Income Fund (ID: 73af7f16-3c19-4360-99ed-b473b2f89874)
+2025-04-22 11:49:24,122 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 8bdbbad4-7c7d-4f49-8a08-a62714cd0028)
+2025-04-22 11:49:24,124 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,126 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,126 - fund_management - INFO - Created fund: Test Growth Fund (ID: 293d6f61-d1f2-4977-9597-b03a57b0bb4e)
+2025-04-22 11:49:24,126 - fund_management - INFO - Created fund: Test Income Fund (ID: 253ced3e-bff7-47ae-98b0-c7e5e78b2de1)
+2025-04-22 11:49:24,127 - fund_management - INFO - Created fund: Test Balanced Fund (ID: bca154a7-d9c8-486d-b231-ae697447783b)
+2025-04-22 11:49:24,127 - fund_management - INFO - Deleted fund ID 293d6f61-d1f2-4977-9597-b03a57b0bb4e
+2025-04-22 11:49:24,128 - fund_management - WARNING - Fund not found: 293d6f61-d1f2-4977-9597-b03a57b0bb4e
+2025-04-22 11:49:24,129 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,131 - fund_management - INFO - Database tables initialized successfully
+2025-04-22 11:49:24,131 - fund_management - INFO - Created fund: Test Growth Fund (ID: 94fdc13a-b2cf-422d-883e-98e766f395e9)
+2025-04-22 11:49:24,131 - fund_management - INFO - Created fund: Test Income Fund (ID: 755442c1-f349-4569-8461-77ac0c3942d8)
+2025-04-22 11:49:24,131 - fund_management - INFO - Created fund: Test Balanced Fund (ID: 92565746-1cc4-44cc-bece-3843ce756429)
+2025-04-22 11:49:24,131 - fund_management - INFO - Database connection closed for :memory:
+2025-04-22 11:49:24,139 - fund_management - INFO - Request cfc7573d-0c79-4500-8790-d425831c943e started: GET /api/funds/ from testclient
+2025-04-22 11:49:24,140 - fund_management - INFO - Request to get all funds
+2025-04-22 11:49:24,141 - fund_management - ERROR - Database error: Test database error
+Traceback (most recent call last):
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\app\api\routes.py", line 36, in get_all_funds
+    funds = db.get_all_funds()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ILLEGEAR\OneDrive\Desktop\fund_management_system\tests\test_error_handling.py", line 11, in mock_get_all_funds
+    raise DatabaseError("Test database error", {"detail": "Connection failed"})
+app.utils.error_handlers.DatabaseError: Test database error
+2025-04-22 11:49:24,145 - fund_management - INFO - Request cfc7573d-0c79-4500-8790-d425831c943e completed: Status 500 (0.0060s)
+2025-04-22 11:49:24,147 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/ "HTTP/1.1 500 Internal Server Error"
+2025-04-22 11:49:24,154 - fund_management - INFO - Request d81bf2d1-1542-4b04-a9a3-e37c7c64bec1 started: GET /api/funds/2b1518f1-05d0-415f-91b7-e9be249ce175 from testclient
+2025-04-22 11:49:24,156 - fund_management - INFO - Request to get fund by ID: 2b1518f1-05d0-415f-91b7-e9be249ce175
+2025-04-22 11:49:24,156 - fund_management - WARNING - Fund not found: 2b1518f1-05d0-415f-91b7-e9be249ce175
+2025-04-22 11:49:24,156 - fund_management - WARNING - Fund not found: 2b1518f1-05d0-415f-91b7-e9be249ce175
+2025-04-22 11:49:24,156 - fund_management - INFO - Request d81bf2d1-1542-4b04-a9a3-e37c7c64bec1 completed: Status 404 (0.0025s)
+2025-04-22 11:49:24,158 - httpx - INFO - HTTP Request: GET http://testserver/api/funds/2b1518f1-05d0-415f-91b7-e9be249ce175 "HTTP/1.1 404 Not Found"
+2025-04-22 11:49:24,164 - fund_management - INFO - Request 0c4da337-9054-48a3-b0c1-653bf0a78468 started: POST /api/funds/ from testclient
+2025-04-22 11:49:24,165 - fund_management - INFO - Request to create new fund: Test Fund
+2025-04-22 11:49:24,165 - fund_management - WARNING - Validation error when creating fund: Test Fund
+2025-04-22 11:49:24,165 - fund_management - WARNING - Validation error: Test validation error
+2025-04-22 11:49:24,167 - fund_management - INFO - Request 0c4da337-9054-48a3-b0c1-653bf0a78468 completed: Status 400 (0.0010s)
+2025-04-22 11:49:24,167 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 400 Bad Request"
+2025-04-22 11:49:24,172 - fund_management - INFO - Request f9ee6866-08cf-4827-b706-1ee563502a0b started: POST /api/funds/ from testclient
+2025-04-22 11:49:24,174 - fund_management - WARNING - Request validation error: [{'loc': ('body', 'name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'manager_name'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'description'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'nav'), 'msg': 'Field required', 'type': 'missing'}, {'loc': ('body', 'performance'), 'msg': 'Field required', 'type': 'missing'}]
+2025-04-22 11:49:24,175 - fund_management - INFO - Request f9ee6866-08cf-4827-b706-1ee563502a0b completed: Status 422 (0.0028s)
+2025-04-22 11:49:24,177 - httpx - INFO - HTTP Request: POST http://testserver/api/funds/ "HTTP/1.1 422 Unprocessable Entity"
